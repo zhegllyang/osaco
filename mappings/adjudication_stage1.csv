@@ -1,0 +1,329 @@
+﻿개념라벨,판정,매핑유형,최종ID,최종라벨,출처,결정근거,후보순위
+Current snore frequency,설문항목,관련(광의),HP:0025267,Snoring,hp,정확일치,1
+Frequency of breathing stoppage during sleep,설문항목,관련(광의),HP:0002104,Apnea,hp,정확일치,1
+Have ever snored,설문항목,관련(광의),HP:0025267,Snoring,hp,정확일치,1
+Other reason sleep apnea not treated,설문항목,관련(광의),MONDO:0005296,sleep apnea syndrome,mondo,정확일치,1
+Reason sleep apnea not treated,설문항목,관련(광의),MONDO:0005296,sleep apnea syndrome,mondo,정확일치,1
+Stopped breathing during sleep,설문항목,관련(광의),HP:0002104,Apnea,hp,정확일치,1
+Told by doctor or some other sleep disorder,설문항목,관련(광의),SNOMED:39898005,Sleep disorder,snomed,정확일치,1
+Told by doctor that you had sleep apnea,설문항목,관련(광의),MONDO:0005296,sleep apnea syndrome,mondo,정확일치,1
+Treated for snoring since sleep study,설문항목,관련(광의),HP:0025267,Snoring,hp,정확일치,1
+Weekday or workday: usual hours of sleep,설문항목,관련(광의),NBO:0000160,sleep duration,mondo,정확일치,1
+Weekend or non-workday: usual hours of sleep,설문항목,관련(광의),NBO:0000160,sleep duration,mondo,정확일치,1
+Morning Survey: How long slept (hours),설문항목,관련(광의),NBO:0000160,sleep duration,mondo,정확일치,1
+Morning Survey: How long slept (minutes),설문항목,관련(광의),NBO:0000160,sleep duration,mondo,정확일치,1
+Morning Survey: Quality of sleep compared to usual,설문항목,관련(광의),OBA:2040170,sleep quality,efo,정확일치,1
+Morning Survey: Quality of sleep light/deep,설문항목,관련(광의),OBA:2040170,sleep quality,efo,정확일치,1
+Morning Survey: Quality of sleep: restless/restful,설문항목,관련(광의),OBA:2040170,sleep quality,efo,정확일치,1
+Morning Survey: Quality of sleep: short/long,설문항목,관련(광의),OBA:2040170,sleep quality,efo,정확일치,1
+Morning Survey: bottles or cans of beer before bed,설문항목,관련(광의),NCIT:C16273,Alcohol Consumption,mondo,정확일치,1
+Morning Survey: cigarettes before bed,설문항목,관련(광의),SNOMED:365981007,Finding of tobacco smoking behavior (finding),snomed,큐레이션질의-1순위,1
+Morning Survey: cigars before bed,설문항목,관련(광의),SNOMED:365981007,Finding of tobacco smoking behavior (finding),snomed,큐레이션질의-1순위,1
+Morning Survey: cups of coffee before bed,설문항목,관련(광의),SNOMED:1208604004,Caffeine intake,snomed,정확일치,1
+Morning Survey: cups of tea before bed,설문항목,관련(광의),SNOMED:1208604004,Caffeine intake,snomed,정확일치,1
+Morning Survey: difficulty falling asleep,설문항목,관련(광의),HP:0031354,Sleep onset insomnia,hp,정확일치,1
+Morning Survey: glasses of wine before bed,설문항목,관련(광의),NCIT:C16273,Alcohol Consumption,mondo,정확일치,1
+Morning Survey: glasses or cans of soda before bed,설문항목,관련(광의),SNOMED:1208604004,Caffeine intake,snomed,정확일치,1
+Morning Survey: medications before bed,설문항목,관련(광의),SNOMED:1157257000,Poisoning by hypnotic agent,snomed,큐레이션질의-1순위,1
+Morning Survey: minutes to fall asleep,설문항목,관련(광의),OBA:2040172,sleep latency,efo,정확일치,1
+Morning Survey: mixed drinks before bed,설문항목,관련(광의),NCIT:C16273,Alcohol Consumption,mondo,정확일치,1
+Morning Survey: pipe bowls before bed,설문항목,관련(광의),SNOMED:365981007,Finding of tobacco smoking behavior (finding),snomed,큐레이션질의-1순위,1
+Functional Outcomes of Sleep Questionnaire (FOSQ) Score,설문항목,관련(광의),HP:0001262,Excessive daytime somnolence,hp,정확일치,1
+Morning Survey: Nasal stuffiness interfered with sleep,설문항목,관련(광의),HP:0001742,Nasal congestion,hp,정확일치,1
+"Morning Survey: Nasal stuffiness, discharge last night",설문항목,관련(광의),HP:0001742,Nasal congestion,hp,정확일치,1
+Morning Survey: Reported elapsed time between sleep and wakening,설문항목,관련(광의),NBO:0000160,sleep duration,mondo,정확일치,1
+Morning Survey: Reported time actually slept last night,설문항목,관련(광의),NBO:0000160,sleep duration,mondo,정확일치,1
+Horne-Ostberg Morningness-Eveningness Questionnaire: Ideal scheduled wake time,설문항목,관련(광의),HP:0031873,Early chronotype,hp,큐레이션질의-1순위,1
+Horne-Ostberg Morningness-Eveningness Questionnaire: Morning or evening type,설문항목,관련(광의),HP:0031873,Early chronotype,hp,큐레이션질의-1순위,1
+"Horne-Ostberg Morningness-Eveningness Questionnaire: Time of day reaching ""feeling best"" peak",설문항목,관련(광의),HP:0031873,Early chronotype,hp,큐레이션질의-1순위,1
+Horne-Ostberg Morningness-Eveningness Questionnaire: Time of evening you need sleep,설문항목,관련(광의),HP:0031873,Early chronotype,hp,큐레이션질의-1순위,1
+Horne-Ostberg Morningness-Eveningness Questionnaire: Tiredness during first half-hour after waking,설문항목,관련(광의),HP:0031873,Early chronotype,hp,큐레이션질의-1순위,1
+Modified Horne-Ostberg Morningness-Eveningness Questionnaire (MEQ) Score,설문항목,관련(광의),HP:0031873,Early chronotype,hp,큐레이션질의-1순위,1
+Chance of dozing while at dinner table,설문항목,관련(광의),SNOMED:708735004,Epworth Sleepiness Scale,snomed,정확일치,1
+Chance of dozing while driving,설문항목,관련(광의),SNOMED:708735004,Epworth Sleepiness Scale,snomed,정확일치,1
+Experience desire to move legs because of discomfort or disagreeable sensations in legs,설문항목,관련(광의),SNOMED:32914008,Restless legs syndrome,snomed,정확일치,1
+Feel need to move to relieve discomfort by walking or rub legs,설문항목,관련(광의),SNOMED:32914008,Restless legs syndrome,snomed,정확일치,1
+Frequency of breathing-stop during sleep in the past 4 weeks,설문항목,관련(광의),HP:0002104,Apnea,hp,정확일치,1
+Frequency of snoring in the past 4 weeks,설문항목,관련(광의),HP:0025267,Snoring,hp,정확일치,1
+Frequency of irritability due to sleep difficulties in the last 4 weeks,설문항목,관련(광의),HP:0000737,Irritability,hp,정확일치,1
+Frequency of taking sleeping pills to help with sleep in the last 4 weeks,설문항목,관련(광의),SNOMED:1157257000,Poisoning by hypnotic agent,snomed,큐레이션질의-1순위,1
+Women's Health Initiative Insomnia Rating Scale: Total score,설문항목,관련(광의),SNOMED:193462001,Insomnia,snomed,정확일치,1
+Women's Health Initiative Insomnia Rating Scale: Trouble falling asleep,설문항목,관련(광의),HP:0031354,Sleep onset insomnia,hp,정확일치,1
+Women's Health Initiative Insomnia Rating Scale: Trouble getting back to sleep after waking too early,설문항목,관련(광의),HP:0100785,Insomnia,hp,포함일치,2
+Women's Health Initiative Insomnia Rating Scale: Typical night sleep,설문항목,관련(광의),SNOMED:193462001,Insomnia,snomed,정확일치,1
+Women's Health Initiative Insomnia Rating Scale: Wake earlier than planned,설문항목,관련(광의),HP:0100785,Insomnia,hp,포함일치,2
+Women's Health Initiative Insomnia Rating Scale: Wake several times at night,설문항목,관련(광의),HP:0031355,Maintenance insomnia,hp,포함일치,2
+Self-reported daily sleep duration on weekdays from survey questionnaires,설문항목,관련(광의),NBO:0000160,sleep duration,mondo,정확일치,1
+Self-reported daily sleep duration on weekends from survey questionnaires,설문항목,관련(광의),NBO:0000160,sleep duration,mondo,정확일치,1
+Self-reported end time of the in-bed period on weekdays in 24-hour format from survey questionnaires,설문항목,관련(광의),SNOMED:21029003,Bedtime,snomed,정확일치,1
+Self-reported end time of the in-bed period on weekends in 24-hour format from survey questionnaires,설문항목,관련(광의),SNOMED:21029003,Bedtime,snomed,정확일치,1
+Self-reported start time of the in-bed period on weekdays in 24-hour format,설문항목,관련(광의),SNOMED:21029003,Bedtime,snomed,정확일치,1
+Self-reported start time of the in-bed period on weekends in 24-hour format,설문항목,관련(광의),SNOMED:21029003,Bedtime,snomed,정확일치,1
+Days per month working extra hours beyong usual schedule,설문항목,관련(광의),SNOMED:266961004,Shift worker,snomed,큐레이션질의-1순위,1
+Central Apnea Index: (Central apneas with no oxygen desaturation threshold used and with or without arousal) / hour of sleep,신규클래스,관련(광의),SNOMED:716202005,Apnea Hypopnea Index,snomed,정확일치,1
+Obstructive Apnea Index: (Obstructive apneas with no oxygen desaturation threshold used and with or without arousal) / hour of sleep,신규클래스,관련(광의),SNOMED:716202005,Apnea Hypopnea Index,snomed,정확일치,1
+Obstructive Apnea-Hypopnea Index for NREM sleep: (Obstructive apneas + hypopneas with >= 3% oxygen desaturation) / hour of NREM sleep,신규클래스,관련(광의),SNOMED:716202005,Apnea Hypopnea Index,snomed,정확일치,1
+Obstructive Apnea-Hypopnea Index for NREM sleep: (Obstructive apneas + hypopneas with >= 4% oxygen desaturation) / hour of NREM sleep,신규클래스,관련(광의),SNOMED:716202005,Apnea Hypopnea Index,snomed,정확일치,1
+Obstructive Apnea-Hypopnea Index for REM sleep: (Obstructive apneas + hypopneas with >= 3% oxygen desaturation) / hour of REM sleep,신규클래스,관련(광의),SNOMED:716202005,Apnea Hypopnea Index,snomed,정확일치,1
+Obstructive Apnea-Hypopnea Index for REM sleep: (Obstructive apneas + hypopneas with >= 4% oxygen desaturation) / hour of REM sleep,신규클래스,관련(광의),SNOMED:716202005,Apnea Hypopnea Index,snomed,정확일치,1
+Obstructive Apnea-Hypopnea Index for non-supine sleep: (Obstructive apneas + hypopneas with >= 3% oxygen desaturation) / hour of sleep in non-supine position,신규클래스,관련(광의),SNOMED:716202005,Apnea Hypopnea Index,snomed,정확일치,1
+Obstructive Apnea-Hypopnea Index for supine sleep: (Obstructive apneas + hypopneas with >= 3% oxygen desaturation) / hour of sleep in supine position,신규클래스,관련(광의),SNOMED:716202005,Apnea Hypopnea Index,snomed,정확일치,1
+Obstructive Apnea-Hypopnea Index: (Obstructive apneas + hypopneas with >= 3% oxygen desaturation) / hour of sleep,신규클래스,관련(광의),SNOMED:716202005,Apnea Hypopnea Index,snomed,정확일치,1
+Obstructive Apnea-Hypopnea Index: (Obstructive apneas + hypopneas with >= 4% oxygen desaturation) / hour of sleep,신규클래스,관련(광의),SNOMED:716202005,Apnea Hypopnea Index,snomed,정확일치,1
+Arousal Index: Number of arousals per hour of sleep from polysomnography,신규클래스,관련(광의),HP:0025199,Fragmented sleep,hp,수동큐레이션,1
+"Percentage of total sleep duration (i.e., total sleep time, TST) in REM from polysomnography",신규클래스,관련(광의),HP:5200298,Abnormal sleep architecture,hp,수동큐레이션,1
+"Percentage of total sleep duration (i.e., total sleep time, TST) in stage 1 from polysomnography",신규클래스,관련(광의),HP:5200298,Abnormal sleep architecture,hp,수동큐레이션,1
+"Percentage of total sleep duration (i.e., total sleep time, TST) in stage 2 from polysomnography",신규클래스,관련(광의),HP:5200298,Abnormal sleep architecture,hp,수동큐레이션,1
+"Percentage of total sleep duration (i.e., total sleep time, TST) in stage 3/4 from polysomnography",신규클래스,관련(광의),HP:5200298,Abnormal sleep architecture,hp,수동큐레이션,1
+REM Sleep Latency: the interval between the first sleep epoch and REM sleep excluding wake,신규클래스,관련(광의),OBA:2040172,sleep latency,efo,정확일치,1
+REM Sleep Latency: the interval between the first sleep epoch and REM sleep including wake,신규클래스,관련(광의),OBA:2040172,sleep latency,efo,정확일치,1
+"Sleep Maintenance Efficiency: the proportion of total sleep duration (i.e., total sleep time) in sleep period (i.e., interval between sleep onset and offset including wake) from polysomnography",신규클래스,관련(광의),EFO:0803364,sleep efficiency,efo,정확일치,1
+Total In-bed Period: the interval between lights off/in-bed time and lights on/out-bed time from polysomnography,신규클래스,관련(광의),NBO:0000160,sleep duration,mondo,정확일치,1
+Arousal Index,신규클래스,관련(광의),HP:0025199,Fragmented sleep,hp,수동큐레이션,1
+Arousal Index (Non-rapid eye movement sleep (NREM)),신규클래스,관련(광의),HP:0025199,Fragmented sleep,hp,수동큐레이션,1
+Arousal Index (Rapid eye movement sleep (REM)),신규클래스,관련(광의),HP:0025199,Fragmented sleep,hp,수동큐레이션,1
+"Arousals per hour (Non-rapid eye movement sleep (NREM), Non-supine, all oxygen desaturations)",신규클래스,관련(광의),HP:0025199,Fragmented sleep,hp,수동큐레이션,1
+"Arousals per hour (Non-rapid eye movement sleep (NREM), Supine, all oxygen desaturations)",신규클래스,관련(광의),HP:0025199,Fragmented sleep,hp,수동큐레이션,1
+"Arousals per hour (Rapid eye movement sleep (REM), Non-supine, all oxygen desaturations)",신규클래스,관련(광의),HP:0025199,Fragmented sleep,hp,수동큐레이션,1
+"Arousals per hour (Rapid eye movement sleep (REM), Supine, all oxygen desaturations)",신규클래스,관련(광의),HP:0025199,Fragmented sleep,hp,수동큐레이션,1
+"Number of Arousals (Non-rapid eye movement sleep (NREM), Non-supine, all oxygen desaturations)",신규클래스,관련(광의),HP:0025199,Fragmented sleep,hp,수동큐레이션,1
+"Number of Arousals (Non-rapid eye movement sleep (NREM), Supine, all oxygen desaturations)",신규클래스,관련(광의),HP:0025199,Fragmented sleep,hp,수동큐레이션,1
+"Number of Arousals (Rapid eye movement sleep (REM), Non-supine, all oxygen desaturations)",신규클래스,관련(광의),HP:0025199,Fragmented sleep,hp,수동큐레이션,1
+"Number of Arousals (Rapid eye movement sleep (REM), Supine, all oxygen desaturations)",신규클래스,관련(광의),HP:0025199,Fragmented sleep,hp,수동큐레이션,1
+Central Apnea Index - numer of [central apneas] per hour of sleep,신규클래스,관련(광의),SNOMED:716202005,Apnea Hypopnea Index,snomed,정확일치,1
+Central Apnea-Hypopnea Index (AHI) >= 3% - number of [central apneas] and [hypopneas with >= 3% oxygen desaturation or arousal] per hour of sleep,신규클래스,관련(광의),SNOMED:716202005,Apnea Hypopnea Index,snomed,정확일치,1
+Central Apnea-Hypopnea Index (AHI) >= 3% - number of [central apneas] and [hypopneas with >= 3% oxygen desaturation] per hour of sleep,신규클래스,관련(광의),SNOMED:716202005,Apnea Hypopnea Index,snomed,정확일치,1
+Central Apnea-Hypopnea Index (AHI) >= 4% - number of [central apneas] and [hypopneas with >= 4% oxygen desaturation or arousal] per hour of sleep,신규클래스,관련(광의),SNOMED:716202005,Apnea Hypopnea Index,snomed,정확일치,1
+Central Apnea-Hypopnea Index (AHI) >= 4% - number of [central apneas] and [hypopneas with >= 4% oxygen desaturation] per hour of sleep,신규클래스,관련(광의),SNOMED:716202005,Apnea Hypopnea Index,snomed,정확일치,1
+Obstructive Apnea Index - number of [obstructive apneas] per hour of sleep,신규클래스,관련(광의),SNOMED:716202005,Apnea Hypopnea Index,snomed,정확일치,1
+Obstructive Apnea-Hypopnea Index (AHI) >= 3% - number of [obstructive apneas] and [hypopneas with >= 3% oxygen desaturation or arousal] per hour of sleep,신규클래스,관련(광의),SNOMED:716202005,Apnea Hypopnea Index,snomed,정확일치,1
+Obstructive Apnea-Hypopnea Index (AHI) >= 3% - number of [obstructive apneas] and [hypopneas with >= 3% oxygen desaturation] per hour of sleep,신규클래스,관련(광의),SNOMED:716202005,Apnea Hypopnea Index,snomed,정확일치,1
+Obstructive Apnea-Hypopnea Index (AHI) >= 4% - number of [obstructive apneas] and [hypopneas with >= 4% oxygen desaturation or arousal] per hour of sleep,신규클래스,관련(광의),SNOMED:716202005,Apnea Hypopnea Index,snomed,정확일치,1
+Obstructive Apnea-Hypopnea Index (AHI) >= 4% - number of [obstructive apneas] and [hypopneas with >= 4% oxygen desaturation] per hour of sleep,신규클래스,관련(광의),SNOMED:716202005,Apnea Hypopnea Index,snomed,정확일치,1
+Obstructive Apnea-Hypopnea Index (OAHI) at >=4% oxygen desaturation,신규클래스,관련(광의),SNOMED:716202005,Apnea Hypopnea Index,snomed,정확일치,1
+Overall Respiratory Disturbance Index (RDI) (Non-rapid eye movement sleep (NREM)) at >=3% oxygen desaturation,신규클래스,관련(광의),SNOMED:716202005,Apnea Hypopnea Index,snomed,정확일치,1
+Overall Respiratory Disturbance Index (RDI) (Rapid eye movement sleep (REM)) at >=3% oxygen desaturation,신규클래스,관련(광의),SNOMED:716202005,Apnea Hypopnea Index,snomed,정확일치,1
+Overall Respiratory Disturbance Index (RDI) all oxygen desaturations,신규클래스,관련(광의),SNOMED:716202005,Apnea Hypopnea Index,snomed,정확일치,1
+Overall Respiratory Disturbance Index (RDI) at >=3% oxygen desaturation,신규클래스,관련(광의),SNOMED:716202005,Apnea Hypopnea Index,snomed,정확일치,1
+Overall Respiratory Disturbance Index (RDI) at >=3% oxygen desaturation or arousal,신규클래스,관련(광의),SNOMED:716202005,Apnea Hypopnea Index,snomed,정확일치,1
+Overall Respiratory Disturbance Index (RDI) at >=4% oxygen desaturation,신규클래스,관련(광의),SNOMED:716202005,Apnea Hypopnea Index,snomed,정확일치,1
+Minutes spent in rapid eye movement sleep (REM),신규클래스,관련(광의),HP:5200298,Abnormal sleep architecture,hp,수동큐레이션,1
+Number of sleep to awake shifts per hour,신규클래스,관련(광의),HP:0025199,Fragmented sleep,hp,큐레이션질의-1순위,1
+Percent Time in Stage 1,신규클래스,관련(광의),HP:5200298,Abnormal sleep architecture,hp,수동큐레이션,1
+Percent Time in Stage 2,신규클래스,관련(광의),HP:5200298,Abnormal sleep architecture,hp,수동큐레이션,1
+Percent Time in Stage 3/4,신규클래스,관련(광의),HP:5200298,Abnormal sleep architecture,hp,수동큐레이션,1
+Percent Time in rapid eye movement sleep (REM),신규클래스,관련(광의),HP:5200298,Abnormal sleep architecture,hp,수동큐레이션,1
+Percent Time non-supine,신규클래스,관련(광의),SNOMED:40199007,Supine body position,snomed,정확일치,1
+Percent Time supine,신규클래스,관련(광의),SNOMED:40199007,Supine body position,snomed,정확일치,1
+Percent of sleep time in Apnea,신규클래스,관련(광의),HP:0002104,Apnea,hp,정확일치,1
+Percent of sleep time in Hypopnea,신규클래스,관련(광의),HP:0002104,Apnea,hp,정확일치,1
+Rapid eye movement sleep (REM) Latency I,신규클래스,관련(광의),OBA:2040172,sleep latency,efo,정확일치,1
+Rapid eye movement sleep (REM) Latency I - including wake time,신규클래스,관련(광의),OBA:2040172,sleep latency,efo,정확일치,1
+Rapid eye movement sleep (REM) Latency II - excluding wake,신규클래스,관련(광의),OBA:2040172,sleep latency,efo,정확일치,1
+"Sleep Time (Non-rapid eye movement sleep (NREM), Non-supine)",신규클래스,관련(광의),NBO:0000160,sleep duration,mondo,정확일치,1
+"Sleep Time (Non-rapid eye movement sleep (NREM), Supine)",신규클래스,관련(광의),NBO:0000160,sleep duration,mondo,정확일치,1
+"Sleep Time (Rapid eye movement sleep (REM), Non-supine)",신규클래스,관련(광의),NBO:0000160,sleep duration,mondo,정확일치,1
+"Sleep Time (Rapid eye movement sleep (REM), Supine)",신규클래스,관련(광의),NBO:0000160,sleep duration,mondo,정확일치,1
+Time in Stage 3/4,신규클래스,관련(광의),HP:5200298,Abnormal sleep architecture,hp,수동큐레이션,1
+Time in stage 1 sleep,신규클래스,관련(광의),HP:5200298,Abnormal sleep architecture,hp,수동큐레이션,1
+Time in stage 2 sleep,신규클래스,관련(광의),HP:5200298,Abnormal sleep architecture,hp,수동큐레이션,1
+Time in stage 3-4 sleep,신규클래스,관련(광의),HP:5200298,Abnormal sleep architecture,hp,수동큐레이션,1
+Time in stage 3/4 sleep,신규클래스,관련(광의),HP:5200298,Abnormal sleep architecture,hp,수동큐레이션,1
+Central Apnea-Hypopnea Index: (Central apneas with no oxygen desaturation threshold used and with or without arousal+ hypopneas with > 30% flow reduction and >= 3% oxygen desaturation and with or without arousal) / hour of sleep from type II polysomnography,신규클래스,관련(광의),SNOMED:716202005,Apnea Hypopnea Index,snomed,정확일치,1
+Central Apnea-Hypopnea Index: (Central apneas with no oxygen desaturation threshold used and with or without arousal+ hypopneas with > 30% flow reduction and >= 3% oxygen desaturation or with arousal) / hour of sleep from type II polysomnography,신규클래스,관련(광의),SNOMED:716202005,Apnea Hypopnea Index,snomed,정확일치,1
+Central Apnea-Hypopnea Index: (Central apneas with no oxygen desaturation threshold used and with or without arousal+ hypopneas with > 30% flow reduction and >= 4% oxygen desaturation and with or without arousal) / hour of sleep from type II polysomnography,신규클래스,관련(광의),SNOMED:716202005,Apnea Hypopnea Index,snomed,정확일치,1
+Central Apnea-Hypopnea Index: (Central apneas with no oxygen desaturation threshold used and with or without arousal+ hypopneas with > 30% flow reduction and >= 4% oxygen desaturation or with arousal) / hour of sleep from type II polysomnography,신규클래스,관련(광의),SNOMED:716202005,Apnea Hypopnea Index,snomed,정확일치,1
+Obstructive Apnea Hypopnea Index: (Obstructive apneas with no oxygen desaturation threshold used and with or without arousal+ hypopneas with > 30% flow reduction and no oxygen desaturation threshold used and with or without arousal) / hour of sleep from type II polysomnography,신규클래스,관련(광의),SNOMED:716202005,Apnea Hypopnea Index,snomed,정확일치,1
+Obstructive Apnea-Hypopnea Index: (Obstructive apneas with no oxygen desaturation threshold used and with or without arousal+ hypopneas with > 30% flow reduction and >= 3% oxygen desaturation and with or without arousal) / hour of sleep from type II polysomnography,신규클래스,관련(광의),SNOMED:716202005,Apnea Hypopnea Index,snomed,정확일치,1
+Obstructive Apnea-Hypopnea Index: (Obstructive apneas with no oxygen desaturation threshold used and with or without arousal+ hypopneas with > 30% flow reduction and >= 3% oxygen desaturation or with arousal) / hour of sleep from type II polysomnography,신규클래스,관련(광의),SNOMED:716202005,Apnea Hypopnea Index,snomed,정확일치,1
+Obstructive Apnea-Hypopnea Index: (Obstructive apneas with no oxygen desaturation threshold used and with or without arousal+ hypopneas with > 30% flow reduction and >= 4% oxygen desaturation and with or without arousal) / hour of sleep from type II polysomnography,신규클래스,관련(광의),SNOMED:716202005,Apnea Hypopnea Index,snomed,정확일치,1
+Obstructive Apnea-Hypopnea Index: (Obstructive apneas with no oxygen desaturation threshold used and with or without arousal+ hypopneas with > 30% flow reduction and >= 4% oxygen desaturation or with arousal) / hour of sleep from type II polysomnography,신규클래스,관련(광의),SNOMED:716202005,Apnea Hypopnea Index,snomed,정확일치,1
+Overall instability (NREM),신규클래스,관련(광의),MONDO:0004731,central sleep apnea syndrome,mondo,큐레이션질의-1순위,1
+Percent total sleep duration with below 90% oxygen saturation from type II polysomnography,신규클래스,관련(광의),SNOMED:389087006,Hypoxemia (disorder),snomed,정확일치,1
+Arousal Index (NREM): Number of arousals per hour of NREM sleep from type II polysomnography,신규클래스,관련(광의),HP:0025199,Fragmented sleep,hp,수동큐레이션,1
+"Arousal Index (NREM, Non-Supine): Number of arousals per hour of NREM sleep in non-supine position from type II polysomnography",신규클래스,관련(광의),HP:0025199,Fragmented sleep,hp,수동큐레이션,1
+"Arousal Index (NREM, Supine): Number of arousals per hour of NREM sleep in supine position from type II polysomnography",신규클래스,관련(광의),HP:0025199,Fragmented sleep,hp,수동큐레이션,1
+Arousal Index (REM): Number of arousals per hour of REM sleep from type II polysomnography,신규클래스,관련(광의),HP:0025199,Fragmented sleep,hp,수동큐레이션,1
+"Arousal Index (REM, Non-Supine): Number of arousals per hour of REM sleep in non-supine position from type II polysomnography",신규클래스,관련(광의),HP:0025199,Fragmented sleep,hp,수동큐레이션,1
+"Arousal Index (REM, Supine): Number of arousals per hour of REM sleep in supine position from type II polysomnography",신규클래스,관련(광의),HP:0025199,Fragmented sleep,hp,수동큐레이션,1
+Arousal Index: Number of arousals per hour of sleep from type II polysomnography,신규클래스,관련(광의),HP:0025199,Fragmented sleep,hp,수동큐레이션,1
+Total number of arousals during NREM sleep in non-supine position from type II polysomnography,신규클래스,관련(광의),HP:0025199,Fragmented sleep,hp,수동큐레이션,1
+Total number of arousals during NREM sleep in supine position from type II polysomnography,신규클래스,관련(광의),HP:0025199,Fragmented sleep,hp,수동큐레이션,1
+Total number of arousals during REM sleep in non-supine position from type II polysomnography,신규클래스,관련(광의),HP:0025199,Fragmented sleep,hp,수동큐레이션,1
+Total number of arousals during REM sleep in supine position from type II polysomnography,신규클래스,관련(광의),HP:0025199,Fragmented sleep,hp,수동큐레이션,1
+Percentage of total sleep duration in REM from type II polysomnography,신규클래스,관련(광의),HP:5200298,Abnormal sleep architecture,hp,수동큐레이션,1
+Percentage of total sleep duration in Stage 1 from type II polysomnography,신규클래스,관련(광의),HP:5200298,Abnormal sleep architecture,hp,수동큐레이션,1
+Percentage of total sleep duration in Stage 2 from type II polysomnography,신규클래스,관련(광의),HP:5200298,Abnormal sleep architecture,hp,수동큐레이션,1
+Percentage of total sleep duration in Stage 3 and 4 from type II polysomnography,신규클래스,관련(광의),HP:5200298,Abnormal sleep architecture,hp,수동큐레이션,1
+Percentage of total sleep duration in non-supine position from type II polysomnography,신규클래스,관련(광의),HP:5200298,Abnormal sleep architecture,hp,수동큐레이션,1
+Percentage of total sleep duration in supine position from type II polysomnography,신규클래스,관련(광의),HP:5200298,Abnormal sleep architecture,hp,수동큐레이션,1
+REM Latency II: the interval between sleep onset and first REM while asleep (excluding wake) from type II polysomnography,신규클래스,관련(광의),OBA:2040172,sleep latency,efo,정확일치,1
+Sleep Maintenance Efficiency: the proportion of sleep duration in sleep period from type II polysomnography,신규클래스,관련(광의),EFO:0803364,sleep efficiency,efo,정확일치,1
+Total In-bed Period: the interval between lights out/in-bed time and lights off/out-bed time from type II polysomnography,신규클래스,관련(광의),NBO:0000160,sleep duration,mondo,정확일치,1
+Total duration of REM sleep from type II polysomnography,신규클래스,관련(광의),HP:5200298,Abnormal sleep architecture,hp,수동큐레이션,1
+Total duration of Stage 1 sleep from type II polysomnography,신규클래스,관련(광의),HP:5200298,Abnormal sleep architecture,hp,수동큐레이션,1
+Total duration of Stage 2 sleep from type II polysomnography,신규클래스,관련(광의),HP:5200298,Abnormal sleep architecture,hp,수동큐레이션,1
+Total duration of Stage 3 and 4 sleep from type II polysomnography,신규클래스,관련(광의),HP:5200298,Abnormal sleep architecture,hp,수동큐레이션,1
+Body mass index,자동매핑후보,등가,SNOMED:60621009,Body mass index,snomed,정확일치,1
+Height (cm),자동매핑후보,등가,PATO:0000119,height,hp,정확일치,1
+Weight (lbs),자동매핑후보,등가,SNOMED:726527001,Weight,snomed,정확일치,1
+Days to First Congestive Heart Failure (CHF) Since Baseline,자동매핑후보,등가,SNOMED:42343007,Congestive heart failure,snomed,정확일치,1
+Days to First Percutaneous transluminal coronary angioplasty (PTCA) Since Baseline,자동매핑후보,등가,EFO:0003951,percutaneous transluminal coronary angioplasty,efo,정확일치,1
+Days to First Stroke Since Baseline,자동매핑후보,등가,HP:0001297,Stroke,hp,정확일치,1
+Days to First coronary artery bypass graft surgery (CABG) Since Baseline,자동매핑후보,등가,EFO:0003776,coronary artery bypass,efo,포함일치,1
+Days to First myocardial infarction (MI) Since Baseline,자동매핑후보,등가,MONDO:0005068,myocardial infarction,mondo,정확일치,1
+Number of coronary artery bypass graft surgeries (CABGs) Since Baseline,자동매핑후보,등가,EFO:0003776,coronary artery bypass,efo,포함일치,1
+Number of myocardial infarctions (MIs) Since Baseline,자동매핑후보,등가,MONDO:0005068,myocardial infarction,mondo,포함일치,3
+Age at Sleep Heart Health Study Visit One,자동매핑후보,등가,SNOMED:397669002,Age,snomed,정확일치,1
+Age at Sleep Heart Health Study Visit Two,자동매핑후보,등가,SNOMED:397669002,Age,snomed,정확일치,1
+Gender,자동매핑후보,등가,SNOMED:263495000,Gender,snomed,정확일치,1
+Marital Status,자동매핑후보,등가,SNOMED:125680007,Marital status,snomed,정확일치,1
+Race,자동매핑후보,등가,SNOMED:103579009,Race,snomed,정확일치,1
+"Sleep Efficiency: the ratio of total sleep duration (i.e., total sleep time) to in-bed period (i.e., time in bed) from polysomnography",자동매핑후보,등가,EFO:0803364,sleep efficiency,efo,정확일치,1
+Sleep Latency: the interval between lights-out/in-bed time and sleep onset from polysomnography,자동매핑후보,등가,OBA:2040172,sleep latency,efo,정확일치,1
+Wake After Sleep Onset: the total duration being awake between sleep onset and lights-on/out-bed time from polysomnography,자동매핑후보,등가,EFO:0803363,wake after sleep onset,efo,정확일치,1
+Body mass index (BMI),자동매핑후보,등가,SNOMED:60621009,Body mass index,snomed,정확일치,1
+Height,자동매핑후보,등가,PATO:0000119,height,hp,정확일치,1
+Hip Circumference,자동매핑후보,등가,SNOMED:284472007,Hip circumference,snomed,정확일치,1
+Neck Circumference,자동매핑후보,등가,SNOMED:420236003,Neck circumference,snomed,정확일치,1
+Neck circumference (measurement 1),자동매핑후보,등가,SNOMED:420236003,Neck circumference,snomed,정확일치,1
+Neck circumference (measurement 2),자동매핑후보,등가,SNOMED:420236003,Neck circumference,snomed,정확일치,1
+Neck circumference (measurement 3),자동매핑후보,등가,SNOMED:420236003,Neck circumference,snomed,정확일치,1
+Waist Circumference,자동매핑후보,등가,SNOMED:276361009,Waist circumference,snomed,정확일치,1
+Weight,자동매핑후보,등가,SNOMED:726527001,Weight,snomed,정확일치,1
+Ankle-arm Blood Pressure (BP) Index,자동매핑후보,등가,SNOMED:401221002,Ankle brachial pressure index,snomed,정확일치,1
+Average Diastolic blood pressure (BP),자동매핑후보,등가,SNOMED:314453003,Average diastolic blood pressure,snomed,정확일치,1
+Average Systolic blood pressure (BP),자동매핑후보,등가,SNOMED:314440001,Average systolic blood pressure,snomed,정확일치,1
+Diastolic blood pressure (BP) (measurement 1),자동매핑후보,등가,SNOMED:271650006,Diastolic blood pressure,snomed,정확일치,1
+Diastolic blood pressure (BP) (measurement 2),자동매핑후보,등가,SNOMED:271650006,Diastolic blood pressure,snomed,정확일치,1
+Diastolic blood pressure (BP) (measurement 3),자동매핑후보,등가,SNOMED:271650006,Diastolic blood pressure,snomed,정확일치,1
+Diastolic blood pressure (BP): reading 1 of 3,자동매핑후보,등가,SNOMED:271650006,Diastolic blood pressure,snomed,정확일치,1
+Diastolic blood pressure (BP): reading 2 of 3,자동매핑후보,등가,SNOMED:271650006,Diastolic blood pressure,snomed,정확일치,1
+Diastolic blood pressure (BP): reading 3 of 3,자동매핑후보,등가,SNOMED:271650006,Diastolic blood pressure,snomed,정확일치,1
+Systolic blood pressure (BP) (measurement 1),자동매핑후보,등가,SNOMED:271649006,Systolic blood pressure,snomed,정확일치,1
+Systolic blood pressure (BP) (measurement 2),자동매핑후보,등가,SNOMED:271649006,Systolic blood pressure,snomed,정확일치,1
+Systolic blood pressure (BP) (measurement 3),자동매핑후보,등가,SNOMED:271649006,Systolic blood pressure,snomed,정확일치,1
+Systolic blood pressure (BP): reading 1 of 3,자동매핑후보,등가,SNOMED:271649006,Systolic blood pressure,snomed,정확일치,1
+Systolic blood pressure (BP): reading 2 of 3,자동매핑후보,등가,SNOMED:271649006,Systolic blood pressure,snomed,정확일치,1
+Systolic blood pressure (BP): reading 3 of 3,자동매핑후보,등가,SNOMED:271649006,Systolic blood pressure,snomed,정확일치,1
+Cholesterol,자동매핑후보,등가,SNOMED:84698008,Cholesterol,snomed,정확일치,1
+High-density lipoprotein (HDL) cholesterol,자동매핑후보,등가,CHEBI:47775,high-density lipoprotein cholesterol,efo,정확일치,1
+Forced Expiratory Volume (FEV 1),자동매핑후보,등가,EFO:0004314,forced expiratory volume,efo,정확일치,1
+Forced Vital Capacity (FVC),자동매핑후보,등가,SNOMED:50834005,Forced vital capacity,snomed,정확일치,1
+Apnea-Hypopnea Index (AHI) >= 3% - number of [all apneas] and [hypopneas with >= 3% oxygen desaturation or arousal] per hour of sleep,자동매핑후보,등가,SNOMED:716202005,Apnea Hypopnea Index,snomed,정확일치,1
+Apnea-Hypopnea Index (AHI) >= 3% - number of [all apneas] and [hypopneas with >= 3% oxygen desaturation] per hour of sleep,자동매핑후보,등가,SNOMED:716202005,Apnea Hypopnea Index,snomed,정확일치,1
+Apnea-Hypopnea Index (AHI) >= 4% - number of [all apneas] and [hypopneas with >= 4% oxygen desaturation or arousal] per hour of sleep,자동매핑후보,등가,SNOMED:716202005,Apnea Hypopnea Index,snomed,정확일치,1
+Apnea-Hypopnea Index (AHI) >= 4% - number of [all apneas] and [hypopneas with >= 4% oxygen desaturation] per hour of sleep,자동매핑후보,등가,SNOMED:716202005,Apnea Hypopnea Index,snomed,정확일치,1
+Number of rapid eye movement sleep (REM) to stage 1 shifts during sleep,자동매핑후보,등가,SNOMED:89129007,Rapid eye movement sleep,snomed,정확일치,1
+Number of rapid eye movement sleep (REM) to stage 1 shifts per hour of sleep,자동매핑후보,등가,SNOMED:89129007,Rapid eye movement sleep,snomed,정확일치,1
+Number of rapid eye movement sleep (REM) to stage 2 shifts during sleep,자동매핑후보,등가,SNOMED:89129007,Rapid eye movement sleep,snomed,정확일치,1
+Number of rapid eye movement sleep (REM) to stage 2 shifts per hour of sleep,자동매핑후보,등가,SNOMED:89129007,Rapid eye movement sleep,snomed,정확일치,1
+Number of rapid eye movement sleep (REM) to stage 3/4 shifts during sleep,자동매핑후보,등가,SNOMED:89129007,Rapid eye movement sleep,snomed,정확일치,1
+Number of rapid eye movement sleep (REM) to stage 3/4 shifts per hour of sleep,자동매핑후보,등가,SNOMED:89129007,Rapid eye movement sleep,snomed,정확일치,1
+Sleep Efficiency,자동매핑후보,등가,EFO:0803364,sleep efficiency,efo,정확일치,1
+Sleep latency,자동매핑후보,등가,OBA:2040172,sleep latency,efo,정확일치,1
+Wake After Sleep Onset,자동매핑후보,등가,EFO:0803363,wake after sleep onset,efo,정확일치,1
+Cigarette pack-years,자동매핑후보,등가,SNOMED:401201003,Cigarette pack-years,snomed,정확일치,1
+History of Asthma,자동매핑후보,등가,HP:0002099,Asthma,hp,정확일치,1
+History of Chronic Bronchitis,자동매핑후보,등가,SNOMED:63480004,Chronic bronchitis,snomed,정확일치,1
+History of Emphysema,자동매핑후보,등가,SNOMED:49158009,Emphysema,snomed,정확일치,1
+History of Sleep Apnea,자동매핑후보,등가,SNOMED:73430006,Sleep apnea (disorder),snomed,정확일치,1
+History of chronic obstructive pulmonary disease (COPD),자동매핑후보,등가,MONDO:0005002,chronic obstructive pulmonary disease,mondo,정확일치,1
+Hypertension (HTN),자동매핑후보,등가,HP:0000822,Hypertension,hp,정확일치,1
+Alpha-Glucosidase Inhibitors,자동매핑후보,등가,SNOMED:741013008,Alpha-glucosidase inhibitor,snomed,포함일치,1
+Amlodipine,자동매핑후보,등가,SNOMED:386864001,Amlodipine,snomed,정확일치,1
+Angiotensin Type 2 Antagonists,자동매핑후보,등가,SNOMED:734629003,Angiotensin II receptor antagonist,snomed,정확일치,1
+"Anti-Arrhythmics, Class 1A",자동매핑후보,등가,SNOMED:372813008,Antiarrhythmic agent,snomed,정확일치,1
+"Anti-Arrhythmics, Class 1B",자동매핑후보,등가,SNOMED:372813008,Antiarrhythmic agent,snomed,정확일치,1
+"Anti-Arrhythmics, Class 1C",자동매핑후보,등가,SNOMED:372813008,Antiarrhythmic agent,snomed,정확일치,1
+"Anti-Arrhythmics, Class 3",자동매핑후보,등가,SNOMED:372813008,Antiarrhythmic agent,snomed,정확일치,1
+Any Calcium-Channel Blocker (Ccir Or Ccbsr Or Ccbt),자동매핑후보,등가,SNOMED:734574004,Calcium channel blocker,snomed,정확일치,1
+Any Diuretic,자동매핑후보,등가,SNOMED:372695000,Diuretic,snomed,정확일치,1
+Any calcium-channel blocker = CCIR or CCBSR or CCBT,자동매핑후보,등가,SNOMED:734574004,Calcium channel blocker,snomed,정확일치,1
+Loop diuretics,자동매핑후보,등가,SNOMED:372691009,Loop diuretic,snomed,포함일치,1
+Niacin and nicotinic acid,자동매핑후보,등가,SNOMED:273943001,Nicotinic acid (substance),snomed,포함일치,1
+T-Type Calcium-Channel Blocker,자동매핑후보,등가,SNOMED:734574004,Calcium channel blocker,snomed,정확일치,1
+angiotensin-converting-enzyme inhibitor (ACE) inhibitors with diuretics,자동매핑후보,등가,SNOMED:734579009,Angiotensin-converting enzyme inhibitor,snomed,포함일치,3
+angiotensin-converting-enzyme inhibitor (ACE) inhibitors without diuretics,자동매핑후보,등가,SNOMED:734579009,Angiotensin-converting enzyme inhibitor,snomed,포함일치,3
+Physical Measurements: Max inflation level Ankle-arm Blood Pressure Index (AAI BP),자동매핑후보,등가,SNOMED:401221002,Ankle brachial pressure index,snomed,정확일치,1
+Insomnia: Self-reported diagnosis by a physician,자동매핑후보,등가,SNOMED:193462001,Insomnia,snomed,정확일치,1
+Restless Legs: Self-reported diagnosis by a physician,자동매핑후보,등가,HP:0012452,Restless legs,hp,정확일치,1
+Sleep Apnea: Self-reported diagnosis by a physician,자동매핑후보,등가,SNOMED:73430006,Sleep apnea (disorder),snomed,정확일치,1
+Epworth Sleepiness Scale: Total score,자동매핑후보,등가,SNOMED:708735004,Epworth Sleepiness Scale,snomed,정확일치,1
+Epworth Sleepiness Scale: Chance of dozing as a passenger in a car for an hour without a break,자동매핑후보,등가,SNOMED:708735004,Epworth Sleepiness Scale,snomed,정확일치,1
+"Epworth Sleepiness Scale: Chance of dozing while in a car, while stopped for a few minutes in traffic",자동매핑후보,등가,SNOMED:708735004,Epworth Sleepiness Scale,snomed,정확일치,1
+Epworth Sleepiness Scale: Chance of dozing while lying down in the afternoon when circumstances permit,자동매핑후보,등가,SNOMED:708735004,Epworth Sleepiness Scale,snomed,정확일치,1
+Epworth Sleepiness Scale: Chance of dozing while sitting and reading,자동매핑후보,등가,SNOMED:708735004,Epworth Sleepiness Scale,snomed,정확일치,1
+Epworth Sleepiness Scale: Chance of dozing while sitting and talking to someone,자동매핑후보,등가,SNOMED:708735004,Epworth Sleepiness Scale,snomed,정확일치,1
+Epworth Sleepiness Scale: Chance of dozing while sitting quietly after lunch without alcohol,자동매핑후보,등가,SNOMED:708735004,Epworth Sleepiness Scale,snomed,정확일치,1
+"Epworth Sleepiness Scale: Chance of dozing while sitting, inactive in a public place",자동매핑후보,등가,SNOMED:708735004,Epworth Sleepiness Scale,snomed,정확일치,1
+Epworth Sleepiness Scale: Chance of dozing while watching TV,자동매핑후보,등가,SNOMED:708735004,Epworth Sleepiness Scale,snomed,정확일치,1
+Sleep Efficiency: the proportion of total sleep duration in in-bed period from type II polysomnography,자동매핑후보,등가,EFO:0803364,sleep efficiency,efo,정확일치,1
+Sleep Latency: the interval between lights-out/in-bed time and sleep onset time from type II polysomnography,자동매핑후보,등가,OBA:2040172,sleep latency,efo,정확일치,1
+Wake after Sleep Onset: the total duration between sleep onset and sleep offset time while being awake from type II polysomnography,자동매핑후보,등가,EFO:0803363,wake after sleep onset,efo,정확일치,1
+Gender of the participant,재질의,등가,SNOMED:263495000,Gender,snomed,정확일치,1
+Participant Age at MESA Sleep Visit,재질의,등가,SNOMED:397669002,Age,snomed,정확일치,1
+Race/ethnicity of the participant,재질의,등가,SNOMED:103579009,Race,snomed,정확일치,1
+Ever smoked cigarettes,재질의,등가,SNOMED:102408007,Cigarette smoke,snomed,큐레이션질의-1순위,1
+Average oxygen saturation in sleep,재질의,등가,SNOMED:104847001,Oxygen saturation measurement,snomed,정확일치,1
+Minimum oxygen saturation in sleep,재질의,등가,SNOMED:104847001,Oxygen saturation measurement,snomed,정확일치,1
+Total Sleep Duration: the interval between sleep onset and sleep offset while the participant is asleep from polysomnography,재질의,등가,NBO:0000160,sleep duration,mondo,정확일치,1
+Subject race,재질의,등가,SNOMED:103579009,Race,snomed,정확일치,1
+Smoked cigarettes in last 30 days,재질의,등가,SNOMED:102408007,Cigarette smoke,snomed,큐레이션질의-1순위,1
+Weight at Blood Pressure (BP) measurement,재질의,등가,SNOMED:27113001,Body weight,snomed,정확일치,1
+Supine ankle systolic blood pressure (BP),재질의,등가,SNOMED:271649006,Systolic blood pressure,snomed,정확일치,1
+Supine arm systolic blood pressure (BP),재질의,등가,SNOMED:271649006,Systolic blood pressure,snomed,정확일치,1
+Average oxygen saturation (SaO2) in sleep,재질의,등가,SNOMED:104847001,Oxygen saturation measurement,snomed,정확일치,1
+Minimum oxygen saturation (SaO2) in sleep,재질의,등가,SNOMED:104847001,Oxygen saturation measurement,snomed,정확일치,1
+Polysomnography (PSG) Report: Sleep Efficiency,재질의,등가,EFO:0803364,sleep efficiency,efo,정확일치,1
+Polysomnography (PSG) Report: Sleep Latency,재질의,등가,OBA:2040172,sleep latency,efo,정확일치,1
+Asthma attack in last 12 months,재질의,등가,HP:0012652,Exercise-induced asthma,hp,큐레이션질의-1순위,1
+Previous history of stroke,재질의,등가,SNOMED:275526006,History of cerebrovascular accident,snomed,정확일치,1
+Runny or stuffy nose,재질의,등가,HP:0001742,Nasal congestion,hp,정확일치,1
+Self-reported hypertension (HTN),재질의,등가,SNOMED:59621000,Essential hypertension,snomed,정확일치,1
+Sinus trouble,재질의,등가,HP:0000246,Sinusitis,hp,정확일치,1
+Aspirin From 280804 (Anti-Inflam Agents),재질의,등가,SNOMED:387458008,Aspirin,snomed,정확일치,1
+Digitalis preparations,재질의,등가,SNOMED:65774009,Digitalis,snomed,정확일치,1
+First Generation Sulfonylureas,재질의,등가,SNOMED:372711004,Sulfonylurea,snomed,정확일치,1
+Hmg Coa Reducatace Inhibitors (Statins),재질의,등가,SNOMED:372912004,HMG-CoA reductase inhibitor,snomed,정확일치,2
+Immediate-Release Ccbs (Nifir Or Dihir Or Verir Or Dltir),재질의,등가,SNOMED:734574004,Calcium channel blocker,snomed,정확일치,1
+Immediate-release CCBS = NFIR or DIHIR or VERIR or DLTIR,재질의,등가,SNOMED:734574004,Calcium channel blocker,snomed,정확일치,1
+K-Channel Blockers To Enhance Insulin Secretion For Diabetics,재질의,등가,SNOMED:372711004,Sulfonylurea,snomed,정확일치,1
+Miscellaneous Lipid-Lowering Drugs,재질의,등가,CHEBI:35679,antilipemic drug,efo,수동큐레이션,1
+"Non-Steroidal Anti-Inflammatory Agents, Excluding Aspirin",재질의,등가,SNOMED:372665008,Non-steroidal anti-inflammatory agent,snomed,정확일치,1
+Second Generation Sulfonylureas,재질의,등가,SNOMED:372711004,Sulfonylurea,snomed,정확일치,1
+Slow-Release Ccbs (Nifsr Or Dihsr Or Versr Or Dltsr Or Amlod),재질의,등가,SNOMED:734574004,Calcium channel blocker,snomed,정확일치,1
+Slow-release CCBS = NIFSR or DIHSR or VERSR or DLTSR or AMLOD,재질의,등가,SNOMED:734574004,Calcium channel blocker,snomed,정확일치,1
+Thiazide diuretics with k-sparing agents,재질의,등가,SNOMED:372747003,Thiazide diuretic,snomed,정확일치,1
+Thiazide diuretics without k-sparing agents,재질의,등가,SNOMED:372747003,Thiazide diuretic,snomed,정확일치,1
+"Vasodilators with diuretics, a mixed group",재질의,등가,SNOMED:372787008,Vasodilator,snomed,정확일치,1
+Doppler Systolic blood pressure (BP),재질의,등가,SNOMED:271649006,Systolic blood pressure,snomed,정확일치,1
+CPAP or BiPAP Machine for Sleep Apnea: Self-reported,재질의,등가,EFO:0010719,continuous positive airway pressure,efo,정확일치,1
+Dental (Oral) Device for Sleep Apnea: Self-reported,재질의,등가,SNOMED:272244007,Dental appliances,snomed,수동큐레이션,1
+Throat/Uvula Surgery for Sleep Apnea: Self-reported,재질의,등가,SNOMED:8335001,Uvulopalatopharyngoplasty,snomed,정확일치,1
+Total Sleep Duration: the interval between sleep onset and sleep offset while the participant is asleep from type II polysomnography,재질의,등가,NBO:0000160,sleep duration,mondo,정확일치,1
+Days from baseline to first myocardial infarction (MI) or stroke,파생변수,관련(광의),MONDO:0005068,myocardial infarction,mondo,정확일치,1
+Days to Fatal Cardiovascular Disease (CVD) Since Baseline,파생변수,관련(광의),MONDO:0004995,cardiovascular disorder,mondo,큐레이션질의-1순위,1
+Days to Fatal Coronary Heart Disease (CHD) Since Baseline,파생변수,관련(광의),SNOMED:53741008,Coronary arteriosclerosis,snomed,수동큐레이션,1
+Days to First Angina Episodes Since Baseline,파생변수,관련(광의),HP:0001681,Angina pectoris,hp,정확일치,1
+Fatal Cardiovascular Disease (CVD) Since Baseline?,파생변수,관련(광의),MONDO:0004995,cardiovascular disorder,mondo,큐레이션질의-1순위,1
+Fatal Coronary Heart Disease (CHD) Since Baseline?,파생변수,관련(광의),SNOMED:53741008,Coronary arteriosclerosis,snomed,수동큐레이션,1
+Fatal Stroke Since Baseline?,파생변수,관련(광의),SNOMED:230690007,Cerebrovascular accident,snomed,정확일치,1
+Number of Angina Episodes Prior to Baseline,파생변수,관련(광의),HP:0001681,Angina pectoris,hp,정확일치,1
+Number of Angina Episodes Since Baseline,파생변수,관련(광의),HP:0001681,Angina pectoris,hp,정확일치,1
+Number of Congestive Heart Failures (CHFs) Since to Baseline,파생변수,관련(광의),SNOMED:42343007,Congestive heart failure,snomed,정확일치,1
+Number of Procedures Related to Heart Attack Prior to Baseline,파생변수,관련(광의),SNOMED:15256002,Transmyocardial revascularization by laser technique (procedure),snomed,큐레이션질의-1순위,1
+Number of Procedures Related to Heart Attack Since Baseline,파생변수,관련(광의),SNOMED:15256002,Transmyocardial revascularization by laser technique (procedure),snomed,큐레이션질의-1순위,1
+Number of Revascularization Procedures Prior to Baseline,파생변수,관련(광의),SNOMED:15256002,Transmyocardial revascularization by laser technique (procedure),snomed,큐레이션질의-1순위,1
+Number of Strokes Prior to Baseline,파생변수,관련(광의),SNOMED:230690007,Cerebrovascular accident,snomed,정확일치,1
+Number of myocardial infarctions (MIs) Prior to Baseline,파생변수,관련(광의),MONDO:0005068,myocardial infarction,mondo,정확일치,1
+Prevalent Atrial Fibrillation (AF) at SHHS Visit 1,파생변수,관련(광의),SNOMED:49436004,Atrial fibrillation,snomed,정확일치,1
+Type of fatal stroke,파생변수,관련(광의),SNOMED:230690007,Cerebrovascular accident,snomed,정확일치,1
+Vital status at last contact,파생변수,관련(광의),SNOMED:419620001,Death,snomed,정확일치,1
+Doctor of Medicine (MD) Reported Angina,파생변수,관련(광의),HP:0001681,Angina pectoris,hp,정확일치,1
+Doctor of Medicine (MD) Reported Coronary Angioplasty,파생변수,관련(광의),EFO:0003951,percutaneous transluminal coronary angioplasty,efo,정확일치,1
+Doctor of Medicine (MD) Reported Heart Failure,파생변수,관련(광의),SNOMED:42343007,Congestive heart failure,snomed,정확일치,1
+Doctor of Medicine (MD) Reported Other Heart Surgery,파생변수,관련(광의),SNOMED:408466002,Cardiac surgery,snomed,정확일치,1
+Doctor of Medicine (MD) Reported Stroke,파생변수,관련(광의),SNOMED:230690007,Cerebrovascular accident,snomed,정확일치,1
+Doctor of Medicine (MD) Reported coronary artery bypass graft (CABG),파생변수,관련(광의),SNOMED:232717009,Coronary artery bypass graft,snomed,정확일치,1
+Doctor of Medicine (MD) Reported myocardial infarction (MI),파생변수,관련(광의),MONDO:0005068,myocardial infarction,mondo,정확일치,1

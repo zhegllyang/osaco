@@ -1,0 +1,226 @@
+﻿개념라벨,판정,최종ID,최종라벨,출처,매핑유형,결정근거
+Usual number of naps per week,설문항목,SNOMED:1217385000,Naproxen (as naproxen sodium) 200 mg oral tablet,snomed,관련,LLM재질의(napping)
+Any Cardiovascular Disease (CVD) Since Baseline?,자동매핑후보,MONDO:0004995,cardiovascular disorder,mondo,관련,LLM판정-후보1
+Any Coronary Heart Disease (CHD) Since Baseline?,자동매핑후보,SNOMED:53741008,Coronary arteriosclerosis,snomed,관련,LLM판정-검증ID
+Days to First Revascularization Procedure Since Baseline,자동매핑후보,SNOMED:275227003,Myocardial revascularization (procedure),snomed,관련,LLM재질의(myocardial revascularization)
+Days to First myocardial infarction (MI) Procedure Since Baseline,자동매핑후보,SNOMED:275227003,Myocardial revascularization (procedure),snomed,관련,LLM재질의(myocardial revascularization)
+Death from myocardial infarct (MI) since Baseline?,자동매핑후보,MONDO:0005068,myocardial infarction,mondo,관련,LLM판정-검증ID
+Event type,관리변수,,(매핑비대상),,무매핑,LLM판정-관리변수
+Fatal Heart Attack Since Baseline?,자동매핑후보,MONDO:0005068,myocardial infarction,mondo,관련,LLM판정-검증ID
+Incident Atrial Fibrillation (AF) after SHHS Visit 1,자동매핑후보,SNOMED:49436004,Atrial fibrillation,snomed,관련,LLM판정-검증ID
+Number of Congestive Heart Failure (CHF) episodes Prior to Baseline,자동매핑후보,SNOMED:42343007,Congestive heart failure,snomed,관련,LLM판정-검증ID
+Number of Percutaneous transluminal coronary angioplasties (PTCAs) Since Baseline,자동매핑후보,EFO:0003951,percutaneous transluminal coronary angioplasty,efo,관련,LLM판정-검증ID
+Number of Revascularization Procedures Since Baseline,자동매핑후보,SNOMED:275227003,Myocardial revascularization (procedure),snomed,관련,LLM재질의(myocardial revascularization)
+Number of Strokes Since Baseline,자동매핑후보,SNOMED:230690007,Cerebrovascular accident,snomed,관련,LLM판정-검증ID
+Type of stroke,자동매핑후보,SNOMED:230690007,Cerebrovascular accident,snomed,관련,LLM판정-검증ID
+Education level,자동매핑후보,SNOMED:105421008,Educational achievement,snomed,관련,LLM재질의(educational achievement)
+Ethnicity,자동매핑후보,SNOMED:372148003,Ethnic group,snomed,등가,LLM판정-후보1
+Currently smoking cigarettes,자동매핑후보,SNOMED:102408007,Cigarette smoke,snomed,관련,LLM재질의(cigarette smoking)
+Apnea-Hypopnea Index : (All apneas + hypopneas with >= 3% oxygen desaturation) / hour of sleep,자동매핑후보,EFO:0920131,apnea-hypopnea index measurement,efo,관련,LLM판정-후보1
+Apnea-Hypopnea Index : (All apneas + hypopneas with >= 4% oxygen desaturation or with arousal) / hour of sleep,자동매핑후보,EFO:0920131,apnea-hypopnea index measurement,efo,관련,LLM판정-후보1
+Apnea-Hypopnea Index : (All apneas + hypopneas with >=30% nasal cannula [or alternative sensor] reduction and >= 3% oxygen desaturation or with arousal) / hour of sleep,자동매핑후보,EFO:0920131,apnea-hypopnea index measurement,efo,관련,LLM판정-후보1
+Apnea-Hypopnea Index : (All apneas + hypopneas with >=30% nasal cannula [or alternative sensor] reduction with >= 4% oxygen desaturation) / hour of sleep,자동매핑후보,EFO:0920131,apnea-hypopnea index measurement,efo,관련,LLM판정-후보1
+Subject age,자동매핑후보,SNOMED:397669002,Age,snomed,등가,LLM재질의(age)
+Subject sex,자동매핑후보,SNOMED:263495000,Gender,snomed,등가,LLM판정-검증ID
+Do not get enough sleep,자동매핑후보,SNOMED:248256006,Not getting enough sleep,snomed,관련,LLM판정-후보1
+Loudness of snoring,자동매핑후보,HP:0025267,Snoring,hp,관련,LLM판정-검증ID
+Treated for high blood pressure (BP) with medications since sleep study,자동매핑후보,SNOMED:59621000,Essential hypertension,snomed,관련,LLM판정-검증ID
+Treated for sleep apnea since Sleep Heart Health Study (SHHS) test,자동매핑후보,MONDO:0005296,sleep apnea syndrome,mondo,관련,LLM판정-검증ID
+Treatment prescribed: Continuous Positive Airway Pressure (CPAP) or Bilevel Positive Airway Pressure (BiPAP),자동매핑후보,EFO:0010719,continuous positive airway pressure,efo,관련,LLM판정-검증ID
+Treatment prescribed: change sleep position,자동매핑후보,SNOMED:40199007,Supine body position,snomed,관련,LLM판정-검증ID
+Wake up during night - unable to get back to sleep,자동매핑후보,HP:0012452,Restless legs,hp,관련,LLM재질의(sleep maintenance insomnia)
+Wake up too early in the morning - unable to get back to sleep,자동매핑후보,HP:0031356,Terminal insomnia,hp,관련,LLM재질의(early morning awakening)
+Current smoking status,자동매핑후보,SNOMED:102408007,Cigarette smoke,snomed,관련,LLM재질의(cigarette smoking)
+Triglycerides,자동매핑후보,EFO:0004530,triglyceride measurement,efo,등가,LLM재질의(triglyceride measurement)
+Lights out time,관리변수,,(매핑비대상),,무매핑,LLM판정-관리변수
+Number of sleep to awake shifts,자동매핑후보,HP:5200298,Abnormal sleep architecture,hp,관련,LLM판정-검증ID
+Number of stage 2 to stage 1 shifts during sleep,자동매핑후보,HP:5200298,Abnormal sleep architecture,hp,관련,LLM판정-검증ID
+Number of stage 2 to stage 1 shifts per hour of sleep,자동매핑후보,HP:5200298,Abnormal sleep architecture,hp,관련,LLM판정-검증ID
+Number of stage 3/4 to stage 1/2 shifts during sleep,자동매핑후보,HP:5200298,Abnormal sleep architecture,hp,관련,LLM판정-검증ID
+Number of stage 3/4 to stage 1/2 shifts per hour of sleep,자동매핑후보,HP:5200298,Abnormal sleep architecture,hp,관련,LLM판정-검증ID
+Percent of sleep time in Apnea or Hypopnea with arousal,자동매핑후보,HP:0002104,Apnea,hp,관련,LLM재질의(apnea)
+Percent of sleep time in Apnea+Hypopnea with greater than >=3% oxygen desaturation,자동매핑후보,HP:0002104,Apnea,hp,관련,LLM재질의(apnea)
+Percent of sleep time in Apnea+Hypopnea with greater than >=3% oxygen desaturation or arousal,자동매핑후보,HP:0002104,Apnea,hp,관련,LLM재질의(apnea)
+Percent of sleep time oxygen saturation (SaO2) is below 70%,자동매핑후보,HP:0034312,Nocturnal hypoxemia,hp,관련,LLM판정-후보1
+Percent of sleep time oxygen saturation (SaO2) is below 75%,자동매핑후보,HP:0034312,Nocturnal hypoxemia,hp,관련,LLM판정-후보1
+Percent of sleep time oxygen saturation (SaO2) is below 80%,자동매핑후보,HP:0034312,Nocturnal hypoxemia,hp,관련,LLM판정-후보1
+Percent of sleep time oxygen saturation (SaO2) is below 85%,자동매핑후보,HP:0034312,Nocturnal hypoxemia,hp,관련,LLM판정-후보1
+Percent of sleep time oxygen saturation (SaO2) is below 90%,자동매핑후보,HP:0034312,Nocturnal hypoxemia,hp,관련,LLM판정-후보1
+Percent of sleep time oxygen saturation (SaO2) is below 95%,자동매핑후보,HP:0034312,Nocturnal hypoxemia,hp,관련,LLM판정-후보1
+Percent of sleep time with less than 75% oxygen saturation (SaO2),자동매핑후보,HP:0034312,Nocturnal hypoxemia,hp,관련,LLM판정-후보1
+Percent of sleep time with less than 80% oxygen saturation (SaO2),자동매핑후보,HP:0034312,Nocturnal hypoxemia,hp,관련,LLM판정-후보1
+Percent of sleep time with less than 85% oxygen saturation (SaO2),자동매핑후보,HP:0034312,Nocturnal hypoxemia,hp,관련,LLM판정-후보1
+Percent of sleep time with less than 90% oxygen saturation (SaO2),자동매핑후보,HP:0034312,Nocturnal hypoxemia,hp,관련,LLM판정-후보1
+Sleep Time,자동매핑후보,NBO:0000160,sleep duration,mondo,관련,LLM판정-검증ID
+Sleep onset time,자동매핑후보,SNOMED:288101000119104,"Behavioral insomnia of childhood, sleep onset association type (disorder)",snomed,관련,LLM재질의(sleep onset)
+Sleep time when entire sleep was captured,자동매핑후보,NBO:0000160,sleep duration,mondo,관련,LLM판정-검증ID
+Time in Stage 1,자동매핑후보,HP:5200298,Abnormal sleep architecture,hp,관련,LLM판정-검증ID
+Time in Stage 2,자동매핑후보,HP:5200298,Abnormal sleep architecture,hp,관련,LLM판정-검증ID
+Time in bed,자동매핑후보,NBO:0000160,sleep duration,mondo,관련,LLM판정-검증ID
+Time in rapid eye movement sleep (REM),자동매핑후보,HP:5200298,Abnormal sleep architecture,hp,관련,LLM판정-검증ID
+Total Sleep Time,자동매핑후보,NBO:0000160,sleep duration,mondo,관련,LLM판정-검증ID
+Total Time in Bed,자동매핑후보,NBO:0000160,sleep duration,mondo,관련,LLM판정-검증ID
+Alcohol use,자동매핑후보,NCIT:C16273,Alcohol Consumption,mondo,관련,LLM판정-검증ID
+Bring up phlegm,자동매핑후보,EFO:0009824,"bringing up phlegm, sputum or mucus on most days, self-reported",efo,등가,LLM판정-후보1
+Coughing on most days,자동매핑후보,SNOMED:68154008,Chronic cough,snomed,관련,LLM재질의(chronic cough)
+Current Asthma,자동매핑후보,SNOMED:312453004,Asthma - currently active,snomed,등가,LLM판정-후보1
+History of Diabetes,자동매핑후보,HP:0000819,Diabetes mellitus,hp,관련,LLM재질의(diabetes mellitus)
+History of Pacemaker,자동매핑후보,SNOMED:14106009,Cardiac pacemaker,snomed,관련,LLM재질의(cardiac pacemaker)
+History of restless leg syndrome (RLS),자동매핑후보,SNOMED:32914008,Restless legs syndrome,snomed,관련,LLM판정-검증ID
+Previous history of myocardial infarction (MI),자동매핑후보,MONDO:0005068,myocardial infarction,mondo,관련,LLM판정-검증ID
+Alpha-Blockers With Diuretics,자동매핑후보,CHEBI:37890,alpha-adrenergic antagonist,efo,등가,LLM판정-후보2
+Alpha-Blockers Without Diuretics,자동매핑후보,CHEBI:37890,alpha-adrenergic antagonist,efo,등가,LLM판정-후보2
+Any Anti-Hypertensive Medication,자동매핑후보,CHEBI:35674,antihypertensive agent,efo,등가,LLM재질의(antihypertensive agent)
+Any Lipid-Lowering Medication,자동매핑후보,CHEBI:35679,antilipemic drug,efo,관련,LLM판정-검증ID
+Benzodiazepines,자동매핑후보,SNOMED:372664007,Benzodiazepine,snomed,등가,LLM재질의(benzodiazepine)
+Beta-blockers with diuretics,자동매핑후보,SNOMED:734698003,Beta adrenergic receptor antagonist (disposition),snomed,등가,LLM재질의(beta adrenergic antagonist)
+Beta-blockers without diuretics,자동매핑후보,SNOMED:734698003,Beta adrenergic receptor antagonist (disposition),snomed,등가,LLM재질의(beta adrenergic antagonist)
+Biguanides,자동매핑후보,SNOMED:1363127000,Biguanide hypoglycemic agent (substance),snomed,등가,LLM판정-후보3
+Bile-Acid Sequestrants,자동매핑후보,SNOMED:372872006,Bile acid sequestrant antilipemic agent (substance),snomed,등가,LLM판정-후보1
+Bile-acid sequestrant,자동매핑후보,SNOMED:372872006,Bile acid sequestrant antilipemic agent (substance),snomed,등가,LLM판정-후보1
+Combinations Of Angiotensin II Antagonists Plus Diuretics,자동매핑후보,SNOMED:734629003,Angiotensin II receptor antagonist,snomed,등가,LLM판정-후보1
+Fibrates,자동매핑후보,SNOMED:860926007,Fibric acid and/or fibric acid derivative,snomed,등가,LLM재질의(fibric acid)
+Inhibitors Of Adenosine Diphosphate (ADP)-Induced Platelet Aggregation,자동매핑후보,GO:1903493,response to clopidogrel,efo,등가,LLM재질의(antiplatelet agent)
+Insulins,자동매핑후보,SNOMED:67866001,Insulin,snomed,등가,LLM재질의(insulin)
+Nitrates,자동매핑후보,SNOMED:372700007,Nitrate-based vasodilating agent,snomed,등가,LLM판정-후보1
+Oral Hypoglycemic Agents,자동매핑후보,CHEBI:35526,hypoglycemic agent,efo,등가,LLM재질의(hypoglycemic agent)
+"Oral anticoagulants including warfarin, coumadin, and anisindione",자동매핑후보,SNOMED:372862008,Anticoagulant,snomed,등가,LLM재질의(anticoagulant)
+Epworth Sleepiness Scale score,자동매핑후보,SNOMED:763254009,ESS (Epworth Sleepiness Scale) score,snomed,등가,LLM판정-후보1
+Sleep Habits: Fall asleep while a passenger in a car,자동매핑후보,SNOMED:708735004,Epworth Sleepiness Scale,snomed,관련,LLM판정-검증ID
+Sleep Habits: Fall asleep while in a car,자동매핑후보,SNOMED:708735004,Epworth Sleepiness Scale,snomed,관련,LLM판정-검증ID
+Sleep Habits: Fall asleep while lying down in the afternoon,자동매핑후보,SNOMED:708735004,Epworth Sleepiness Scale,snomed,관련,LLM판정-검증ID
+Sleep Habits: Fall asleep while sitting and reading,자동매핑후보,SNOMED:708735004,Epworth Sleepiness Scale,snomed,관련,LLM판정-검증ID
+Sleep Habits: Fall asleep while sitting and talking,자동매핑후보,SNOMED:708735004,Epworth Sleepiness Scale,snomed,관련,LLM판정-검증ID
+Sleep Habits: Fall asleep while sitting inactive in a public place,자동매핑후보,SNOMED:708735004,Epworth Sleepiness Scale,snomed,관련,LLM판정-검증ID
+Sleep Habits: Fall asleep while sitting quietly after lunch,자동매핑후보,SNOMED:708735004,Epworth Sleepiness Scale,snomed,관련,LLM판정-검증ID
+Sleep Habits: Fall asleep while watching TV,자동매핑후보,SNOMED:708735004,Epworth Sleepiness Scale,snomed,관련,LLM판정-검증ID
+Health Interview: Aspirin in last 2 weeks,자동매핑후보,SNOMED:387458008,Aspirin,snomed,등가,LLM재질의(aspirin)
+Health Interview: Doctor of Medicine (MD) prescribed nitro in last year,자동매핑후보,SNOMED:439312002,Occupational circumstances assessment interview and rating scale forensic mental health version 4.0,snomed,등가,LLM판정-후보1
+Health Interview: Hours slept during naps,자동매핑후보,SNOMED:1217385000,Naproxen (as naproxen sodium) 200 mg oral tablet,snomed,관련,LLM재질의(napping)
+Health Interview: How stressful was day today,자동매핑후보,SNOMED:262188008,Stress,snomed,관련,LLM재질의(stress)
+Health Interview: Language of interview,관리변수,,(매핑비대상),,무매핑,LLM판정-관리변수
+Health Interview: Minutes slept during naps,자동매핑후보,SNOMED:1217385000,Naproxen (as naproxen sodium) 200 mg oral tablet,snomed,관련,LLM재질의(napping)
+"Health Interview: Since smoking began, non-smoker for one year or more",자동매핑후보,SNOMED:102408007,Cigarette smoke,snomed,관련,LLM재질의(cigarette smoking)
+Health Interview: Sleeping pills at least 1 day per week,자동매핑후보,SNOMED:1157257000,Poisoning by hypnotic agent,snomed,관련,LLM재질의(hypnotic)
+Health Interview: cans of beer per week,자동매핑후보,NCIT:C16273,Alcohol Consumption,mondo,관련,LLM판정-검증ID
+Health Interview: cigarettes smoked per day,자동매핑후보,SNOMED:102408007,Cigarette smoke,snomed,관련,LLM재질의(cigarette smoking)
+Health Interview: cups of coffee on a regular day,자동매핑후보,SNOMED:255641001,Caffeine,snomed,관련,LLM재질의(caffeine)
+Health Interview: cups of soda (with caffeine) on a regular day,자동매핑후보,SNOMED:255641001,Caffeine,snomed,관련,LLM재질의(caffeine)
+Health Interview: cups of tea on a regular day,자동매핑후보,SNOMED:255641001,Caffeine,snomed,관련,LLM재질의(caffeine)
+Health Interview: days taken aspirin in last week,자동매핑후보,SNOMED:387458008,Aspirin,snomed,등가,LLM재질의(aspirin)
+Health Interview: drinks with hard liquor per week,자동매핑후보,NCIT:C16273,Alcohol Consumption,mondo,관련,LLM판정-검증ID
+Health Interview: glasses of wine per week,자동매핑후보,NCIT:C16273,Alcohol Consumption,mondo,관련,LLM판정-검증ID
+Health Interview: now smoke cigarettes,자동매핑후보,SNOMED:102408007,Cigarette smoke,snomed,관련,LLM재질의(cigarette smoking)
+Health Interview: smoked cigarettes,자동매핑후보,SNOMED:102408007,Cigarette smoke,snomed,관련,LLM재질의(cigarette smoking)
+Health Interview: years of not smoking,자동매핑후보,SNOMED:102408007,Cigarette smoke,snomed,관련,LLM재질의(cigarette smoking)
+Sleep Habits: Changes in snoring,자동매핑후보,HP:0025267,Snoring,hp,관련,LLM판정-검증ID
+Sleep Habits: Doctor of Medicine (MD) diagnosed Sleep Apnea,자동매핑후보,MONDO:0005296,sleep apnea syndrome,mondo,관련,LLM판정-검증ID
+Sleep Habits: Ever snored,자동매핑후보,HP:0025267,Snoring,hp,관련,LLM판정-검증ID
+Sleep Habits: Fall asleep while at the dinner table,자동매핑후보,SNOMED:708735004,Epworth Sleepiness Scale,snomed,관련,LLM판정-검증ID
+Sleep Habits: Fall asleep while driving,자동매핑후보,SNOMED:708735004,Epworth Sleepiness Scale,snomed,관련,LLM판정-검증ID
+Sleep Habits: Frequency of being awakened by noise,자동매핑후보,HP:0012452,Restless legs,hp,관련,LLM재질의(sleep maintenance insomnia)
+Sleep Habits: Frequency of being awakened with chest pain,자동매핑후보,SNOMED:29857009,Chest pain,snomed,관련,LLM재질의(chest pain)
+Sleep Habits: Frequency of being awakened with coughing,자동매핑후보,HP:0012735,Cough,hp,관련,LLM재질의(cough)
+Sleep Habits: Frequency of being awakened with heartburn or indigestion,자동매핑후보,SNOMED:16331000,Heartburn,snomed,관련,LLM재질의(heartburn)
+Sleep Habits: Frequency of being awakened with leg cramps or jerks,자동매핑후보,EFO:0009846,muscle cramp,efo,관련,LLM재질의(muscle cramp)
+Sleep Habits: Frequency of being awakened with need to go to bathroom,자동매핑후보,SNOMED:139394000,Nocturia,snomed,관련,LLM재질의(nocturia)
+Sleep Habits: Frequency of being awakened with pain,자동매핑후보,HP:0012452,Restless legs,hp,관련,LLM재질의(sleep maintenance insomnia)
+Sleep Habits: Frequency of being awakened with shortness of breath,자동매핑후보,HP:0002094,Dyspnea,hp,관련,LLM재질의(dyspnea)
+Sleep Habits: Frequency of being awakened with sweats or hot flashes,자동매핑후보,SNOMED:42984000,Night sweats,snomed,관련,LLM재질의(night sweats)
+Sleep Habits: Frequency of being household members in or near sleeping area,자동매핑후보,HP:0012452,Restless legs,hp,관련,LLM재질의(sleep maintenance insomnia)
+Sleep Habits: Frequency of excessive daytime sleepiness,자동매핑후보,SNOMED:1367959007,Excessive daytime sleepiness,snomed,관련,LLM재질의(excessive daytime sleepiness)
+Sleep Habits: Frequency of feeling unrested,자동매핑후보,OBA:2040170,sleep quality,efo,관련,LLM재질의(sleep quality)
+Sleep Habits: Frequency of not getting enough sleep,자동매핑후보,HP:0031849,Sleep-wake inversion,hp,관련,LLM판정-후보1
+Sleep Habits: Frequency of snoring,자동매핑후보,HP:0025267,Snoring,hp,관련,LLM판정-검증ID
+Sleep Habits: Frequency of stopping breathing during sleep,자동매핑후보,HP:0002104,Apnea,hp,관련,LLM재질의(apnea)
+Sleep Habits: Frequency of taking sleeping pills,자동매핑후보,SNOMED:1157257000,Poisoning by hypnotic agent,snomed,관련,LLM재질의(hypnotic)
+Sleep Habits: Frequency of trouble falling asleep,자동매핑후보,HP:0031354,Sleep onset insomnia,hp,관련,LLM판정-검증ID
+Sleep Habits: Frequency of waking up and having difficulty resuming sleep,자동매핑후보,HP:0012452,Restless legs,hp,관련,LLM재질의(sleep maintenance insomnia)
+Sleep Habits: Frequency of waking up too early and unable to resume sleep,자동매핑후보,HP:0031356,Terminal insomnia,hp,관련,LLM재질의(early morning awakening)
+Sleep Habits: Loudness of snoring,자동매핑후보,HP:0025267,Snoring,hp,관련,LLM판정-검증ID
+Sleep Habits: Stop breathing during sleep,자동매핑후보,HP:0002104,Apnea,hp,관련,LLM재질의(apnea)
+Sleep Habits: Surgery for snoring,자동매핑후보,HP:0025267,Snoring,hp,관련,LLM판정-검증ID
+Sleep Habits: Use oxygen therapy during sleep,자동매핑후보,SNOMED:57485005,Oxygen therapy,snomed,관련,LLM재질의(oxygen therapy)
+Sleep Habits: Use pressure mask (Continuous Positive Airway Pressure (CPAP)) or mouthpiece for sleep apnea,자동매핑후보,EFO:0010719,continuous positive airway pressure,efo,관련,LLM판정-검증ID
+Sleep Habits: Years of snoring,자동매핑후보,HP:0025267,Snoring,hp,관련,LLM판정-검증ID
+Sleep Habits: number of naps per week,자동매핑후보,SNOMED:1217385000,Naproxen (as naproxen sodium) 200 mg oral tablet,snomed,관련,LLM재질의(napping)
+Sleep Habits: sleep time on weekdays,자동매핑후보,NBO:0000160,sleep duration,mondo,관련,LLM판정-검증ID
+Sleep Habits: sleep time on weekends,자동매핑후보,NBO:0000160,sleep duration,mondo,관련,LLM판정-검증ID
+Sleep Habits: time to fall asleep,자동매핑후보,OBA:2040172,sleep latency,efo,관련,LLM판정-검증ID
+Sleep Habits: weekday bedtime - AM or PM,자동매핑후보,SNOMED:21029003,Bedtime,snomed,관련,LLM판정-검증ID
+Sleep Habits: weekday bedtime - hour,자동매핑후보,SNOMED:21029003,Bedtime,snomed,관련,LLM판정-검증ID
+Sleep Habits: weekday bedtime - minute,자동매핑후보,SNOMED:21029003,Bedtime,snomed,관련,LLM판정-검증ID
+Sleep Habits: weekday wake time - AM or PM,자동매핑후보,HP:0031355,Maintenance insomnia,hp,관련,LLM재질의(waking time)
+Sleep Habits: weekday wake time - hour,자동매핑후보,HP:0031355,Maintenance insomnia,hp,관련,LLM재질의(waking time)
+Sleep Habits: weekday wake time - minute,자동매핑후보,HP:0031355,Maintenance insomnia,hp,관련,LLM재질의(waking time)
+Sleep Habits: weekend bedtime - AM or PM,자동매핑후보,SNOMED:21029003,Bedtime,snomed,관련,LLM판정-검증ID
+Sleep Habits: weekend bedtime - hour,자동매핑후보,SNOMED:21029003,Bedtime,snomed,관련,LLM판정-검증ID
+Sleep Habits: weekend bedtime- minute,자동매핑후보,SNOMED:21029003,Bedtime,snomed,관련,LLM판정-검증ID
+Sleep Habits: weekend wake time - AM or PM,자동매핑후보,HP:0031355,Maintenance insomnia,hp,관련,LLM재질의(waking time)
+Sleep Habits: weekend wake time - hour,자동매핑후보,HP:0031355,Maintenance insomnia,hp,관련,LLM재질의(waking time)
+Sleep Habits: weekend wake time - minute,자동매핑후보,HP:0031355,Maintenance insomnia,hp,관련,LLM재질의(waking time)
+Smoking Status at Sleep Heart Health Study Visit One,자동매핑후보,SNOMED:102408007,Cigarette smoke,snomed,관련,LLM재질의(cigarette smoking)
+Health Interview: Age when restless leg symptoms first noticed,자동매핑후보,SNOMED:32914008,Restless legs syndrome,snomed,관련,LLM판정-검증ID
+Health Interview: Frequency of restless legs,자동매핑후보,SNOMED:32914008,Restless legs syndrome,snomed,관련,LLM판정-검증ID
+Health Interview: How bothersome is restless legs,자동매핑후보,SNOMED:32914008,Restless legs syndrome,snomed,관련,LLM판정-검증ID
+Health Interview: How well slept last night,자동매핑후보,OBA:2040170,sleep quality,efo,관련,LLM재질의(sleep quality)
+Health Interview: Number of days took aspirin,자동매핑후보,SNOMED:387458008,Aspirin,snomed,등가,LLM재질의(aspirin)
+Health Interview: Restless leg symptoms worse at night,자동매핑후보,SNOMED:32914008,Restless legs syndrome,snomed,관련,LLM판정-검증ID
+Health Interview: Time went to sleep last night,자동매핑후보,SNOMED:21029003,Bedtime,snomed,관련,LLM판정-검증ID
+Health Interview: Total minutes slept during nap,자동매핑후보,SNOMED:1217385000,Naproxen (as naproxen sodium) 200 mg oral tablet,snomed,관련,LLM재질의(napping)
+Health Interview: Total minutes slept last night,자동매핑후보,NBO:0000160,sleep duration,mondo,관련,LLM판정-검증ID
+Health Interview: Unpleasant feeling in legs,자동매핑후보,SNOMED:32914008,Restless legs syndrome,snomed,관련,LLM판정-검증ID
+Health Interview: Urge to move legs,자동매핑후보,SNOMED:32914008,Restless legs syndrome,snomed,관련,LLM판정-검증ID
+Health Interview: When do restless legs happen,자동매핑후보,SNOMED:32914008,Restless legs syndrome,snomed,관련,LLM판정-검증ID
+Health Interview: restless leg symptoms during what time of day,자동매핑후보,SNOMED:32914008,Restless legs syndrome,snomed,관련,LLM판정-검증ID
+Health Interview: restless leg symptoms improve with walking,자동매핑후보,SNOMED:32914008,Restless legs syndrome,snomed,관련,LLM판정-검증ID
+Health Interview: restless legs worse when not moving,자동매핑후보,SNOMED:32914008,Restless legs syndrome,snomed,관련,LLM판정-검증ID
+Physical Measurements: 1st: Left leg posterior systolic blood pressure (BP),자동매핑후보,SNOMED:271649006,Systolic blood pressure,snomed,관련,LLM판정-검증ID
+Physical Measurements: 1st: Rt leg posterior systolic blood pressure (BP),자동매핑후보,SNOMED:271649006,Systolic blood pressure,snomed,관련,LLM판정-검증ID
+Physical Measurements: 1st: Rt/left arm systolic blood pressure (BP),자동매핑후보,SNOMED:271649006,Systolic blood pressure,snomed,관련,LLM판정-검증ID
+Physical Measurements: 2nd: Left leg posterior systolic blood pressure (BP),자동매핑후보,SNOMED:271649006,Systolic blood pressure,snomed,관련,LLM판정-검증ID
+Physical Measurements: 2nd: Rt leg posterior systolic blood pressure (BP),자동매핑후보,SNOMED:271649006,Systolic blood pressure,snomed,관련,LLM판정-검증ID
+Physical Measurements: 2nd: Rt/left arm systolic blood pressure (BP),자동매핑후보,SNOMED:271649006,Systolic blood pressure,snomed,관련,LLM판정-검증ID
+Physical Measurements: Date of completed,관리변수,,(매핑비대상),,무매핑,LLM판정-관리변수
+The Short Sleep Apnea Quality of Life Index (SAQLI) Score,자동매핑후보,MONDO:0005296,sleep apnea syndrome,mondo,관련,LLM판정-검증ID
+Sleep Habits: Can/bottles of beer per week,자동매핑후보,NCIT:C16273,Alcohol Consumption,mondo,관련,LLM판정-검증ID
+Sleep Habits: Cans of cola per day,자동매핑후보,SNOMED:255641001,Caffeine,snomed,관련,LLM재질의(caffeine)
+Sleep Habits: Cups of coffee per day,자동매핑후보,SNOMED:255641001,Caffeine,snomed,관련,LLM재질의(caffeine)
+Sleep Habits: Cups of tea per day,자동매핑후보,SNOMED:255641001,Caffeine,snomed,관련,LLM재질의(caffeine)
+Sleep Habits: Current smoker,자동매핑후보,SNOMED:102408007,Cigarette smoke,snomed,관련,LLM재질의(cigarette smoking)
+Sleep Habits: Did not smoke for a year while smoker,자동매핑후보,SNOMED:102408007,Cigarette smoke,snomed,관련,LLM재질의(cigarette smoking)
+Sleep Habits: Doctor of Medicine (MD) Diagnosed Insomnia,자동매핑후보,SNOMED:193462001,Insomnia,snomed,관련,LLM판정-검증ID
+Sleep Habits: Doctor of Medicine (MD) Diagnosed Narcolepsy,자동매핑후보,SNOMED:60380001,Narcolepsy,snomed,관련,LLM재질의(narcolepsy)
+Sleep Habits: Doctor of Medicine (MD) Diagnosed Other sleep disorder,자동매핑후보,SNOMED:39898005,Sleep disorder,snomed,관련,LLM판정-검증ID
+Sleep Habits: Doctor of Medicine (MD) Diagnosed Restless legs,자동매핑후보,SNOMED:32914008,Restless legs syndrome,snomed,관련,LLM판정-검증ID
+Sleep Habits: Drinks of hard liquor per week,자동매핑후보,NCIT:C16273,Alcohol Consumption,mondo,관련,LLM판정-검증ID
+Sleep Habits: Frequency of Leg cramps,자동매핑후보,EFO:0009846,muscle cramp,efo,관련,LLM재질의(muscle cramp)
+Sleep Habits: Frequency of Leg jerks,자동매핑후보,HP:5200295,Periodic limb movements of sleep,hp,관련,LLM판정-검증ID
+Sleep Habits: Frequency of nasal stuffiness at night,자동매핑후보,HP:0001742,Nasal congestion,hp,관련,LLM재질의(nasal congestion)
+Sleep Habits: Glasses of cola per day,자동매핑후보,SNOMED:255641001,Caffeine,snomed,관련,LLM재질의(caffeine)
+Sleep Habits: Glasses of wine per week,자동매핑후보,NCIT:C16273,Alcohol Consumption,mondo,관련,LLM판정-검증ID
+Sleep Habits: Nap due to illness or medical reason,자동매핑후보,SNOMED:1217385000,Naproxen (as naproxen sodium) 200 mg oral tablet,snomed,관련,LLM재질의(napping)
+Sleep Habits: Nap due to not enough sleep at night,자동매핑후보,SNOMED:1217385000,Naproxen (as naproxen sodium) 200 mg oral tablet,snomed,관련,LLM재질의(napping)
+Sleep Habits: Nap to feel refreshed,자동매핑후보,SNOMED:1217385000,Naproxen (as naproxen sodium) 200 mg oral tablet,snomed,관련,LLM재질의(napping)
+Sleep Habits: Number of 5+ minute naps during week,자동매핑후보,SNOMED:1217385000,Naproxen (as naproxen sodium) 200 mg oral tablet,snomed,관련,LLM재질의(napping)
+Sleep Habits: Number of years did not smoke,자동매핑후보,SNOMED:102408007,Cigarette smoke,snomed,관련,LLM재질의(cigarette smoking)
+Sleep Habits: Number of years since started smoking,자동매핑후보,SNOMED:102408007,Cigarette smoke,snomed,관련,LLM재질의(cigarette smoking)
+Sleep Habits: Other reason for nap,자동매핑후보,SNOMED:1217385000,Naproxen (as naproxen sodium) 200 mg oral tablet,snomed,관련,LLM재질의(napping)
+Sleep Habits: Regular nap every afternoon,자동매핑후보,SNOMED:1217385000,Naproxen (as naproxen sodium) 200 mg oral tablet,snomed,관련,LLM재질의(napping)
+Sleep Habits: Smoke 20 packs of cigarettes in life,자동매핑후보,SNOMED:102408007,Cigarette smoke,snomed,관련,LLM재질의(cigarette smoking)
+Sleep Habits: Total nap time,자동매핑후보,SNOMED:1217385000,Naproxen (as naproxen sodium) 200 mg oral tablet,snomed,관련,LLM재질의(napping)
+Sleep Habits: Years since stopped smoking,자동매핑후보,SNOMED:102408007,Cigarette smoke,snomed,관련,LLM재질의(cigarette smoking)
+Smoking Status at Sleep Heart Health Study Visit Two,자동매핑후보,SNOMED:102408007,Cigarette smoke,snomed,관련,LLM재질의(cigarette smoking)
+Frequency of excessive sleepiness during the day in the last 4 weeks,자동매핑후보,SNOMED:1367959007,Excessive daytime sleepiness,snomed,관련,LLM재질의(excessive daytime sleepiness)
+Symptoms worse later in day or night,자동매핑후보,SNOMED:32914008,Restless legs syndrome,snomed,관련,LLM판정-검증ID
+Symptoms worse when at rest with temporary relief by activity,자동매핑후보,SNOMED:32914008,Restless legs syndrome,snomed,관련,LLM판정-검증ID
+Typical number of naps in a usual week from survey questionnaires,자동매핑후보,SNOMED:1217385000,Naproxen (as naproxen sodium) 200 mg oral tablet,snomed,관련,LLM재질의(napping)
+Apnea-Hypopnea Index: (Apneas with no oxygen desaturation threshold used and with or without arousal+ hypopneas with > 30% flow reduction and >= 3% oxygen desaturation and with or without arousal) / hour of sleep from type II polysomnography,자동매핑후보,EFO:0920131,apnea-hypopnea index measurement,efo,관련,LLM판정-후보1
+Apnea-Hypopnea Index: (Apneas with no oxygen desaturation threshold used and with or without arousal+ hypopneas with > 30% flow reduction and >= 3% oxygen desaturation or with arousal) / hour of sleep from type II polysomnography,자동매핑후보,EFO:0920131,apnea-hypopnea index measurement,efo,관련,LLM판정-후보1
+Apnea-Hypopnea Index: (Apneas with no oxygen desaturation threshold used and with or without arousal+ hypopneas with > 30% flow reduction and >= 4% oxygen desaturation and with or without arousal) / hour of sleep from type II polysomnography,자동매핑후보,EFO:0920131,apnea-hypopnea index measurement,efo,관련,LLM판정-후보1
+Apnea-Hypopnea Index: (Apneas with no oxygen desaturation threshold used and with or without arousal+ hypopneas with > 30% flow reduction and >= 4% oxygen desaturation or with arousal) / hour of sleep from type II polysomnography,자동매핑후보,EFO:0920131,apnea-hypopnea index measurement,efo,관련,LLM판정-후보1
+Ratio of the number of central apneas with no oxygen desaturation threshold used and with or without arousal to the number of obstructive apneas with no oxygen desaturation threshold used and with or without arousal from type II polysomnography,자동매핑후보,SNOMED:716202005,Apnea Hypopnea Index,snomed,관련,LLM판정-검증ID
+Ratio of the number of central apneas with no oxygen desaturation threshold used or without arousal to the number of obstructive apneas with no oxygen desaturation threshold used or with arousal from type II polysomnography,자동매핑후보,SNOMED:716202005,Apnea Hypopnea Index,snomed,관련,LLM판정-검증ID
+REM Latency I: the interval between sleep onset and first REM (including wake) from type II polysomnography,자동매핑후보,OBA:2040172,sleep latency,efo,관련,LLM판정-검증ID
+Sleep onset time from type II polysomnography,자동매핑후보,SNOMED:288101000119104,"Behavioral insomnia of childhood, sleep onset association type (disorder)",snomed,관련,LLM재질의(sleep onset)
+Usual work schedule,자동매핑후보,SNOMED:266961004,Shift worker,snomed,관련,LLM재질의(shift work)

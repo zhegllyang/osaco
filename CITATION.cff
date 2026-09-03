@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use OSACO, please cite it as below."
+title: "OSACO: Obstructive Sleep Apnea Cohort Variable Ontology"
+version: 0.1.0
+date-released: 2026-09-03
+license: CC-BY-4.0
+repository-code: "https://github.com/zhegllyang/osaco"
+authors:
+  - family-names: Song
+    given-names: JongHwi
+    orcid: "https://orcid.org/0009-0005-6388-2172"
+    affiliation: "Institute of AI Data Convergence Science, Yonsei University"
+  - family-names: Erdenebayar
+    given-names: Urtnasan
+    orcid: "https://orcid.org/0000-0002-3493-9724"
+    affiliation: "Division of AI Semiconductor, Yonsei University"
+keywords:
+  - obstructive sleep apnea
+  - ontology
+  - data harmonization
+  - polysomnography
+  - NSRR
+preferred-citation:
+  type: article
+  title: "OSACO: an LLM-assisted application ontology for obstructive sleep apnea cohort variables, constructed from SHHS and cross-validated in MESA"
+  authors:
+    - family-names: Song
+      given-names: JongHwi
+    - family-names: Erdenebayar
+      given-names: Urtnasan
+  journal: "Journal of Biomedical Semantics"
+  year: 2026
+  notes: "Manuscript under review; citation details to be updated upon publication."

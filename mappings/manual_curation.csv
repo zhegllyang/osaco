@@ -1,0 +1,251 @@
+﻿개념라벨,판정,큐레이션질의,규칙,폴더예시,코호트
+Arousal Index,신규클래스,arousal|sleep arousal,psg-arousal,Measurements/Polysomnography/Arousals,SHHS
+Arousal Index (Non-rapid eye movement sleep (NREM)),신규클래스,arousal|sleep arousal,psg-arousal,Measurements/Polysomnography/Arousals,SHHS
+Arousal Index (NREM): Number of arousals per hour of NREM sleep from type II polysomnography,신규클래스,arousal|sleep arousal,psg-arousal,Sleep and Circadian Studies/Polysomnography/Sleep Electroencephalogram (EEG)/Arousals,MESA
+"Arousal Index (NREM, Non-Supine): Number of arousals per hour of NREM sleep in non-supine position from type II polysomnography",신규클래스,arousal|sleep arousal,psg-arousal,Sleep and Circadian Studies/Polysomnography/Sleep Electroencephalogram (EEG)/Arousals,MESA
+"Arousal Index (NREM, Supine): Number of arousals per hour of NREM sleep in supine position from type II polysomnography",신규클래스,arousal|sleep arousal,psg-arousal,Sleep and Circadian Studies/Polysomnography/Sleep Electroencephalogram (EEG)/Arousals,MESA
+Arousal Index (Rapid eye movement sleep (REM)),신규클래스,arousal|sleep arousal,psg-arousal,Measurements/Polysomnography/Arousals,SHHS
+Arousal Index (REM): Number of arousals per hour of REM sleep from type II polysomnography,신규클래스,arousal|sleep arousal,psg-arousal,Sleep and Circadian Studies/Polysomnography/Sleep Electroencephalogram (EEG)/Arousals,MESA
+"Arousal Index (REM, Non-Supine): Number of arousals per hour of REM sleep in non-supine position from type II polysomnography",신규클래스,arousal|sleep arousal,psg-arousal,Sleep and Circadian Studies/Polysomnography/Sleep Electroencephalogram (EEG)/Arousals,MESA
+"Arousal Index (REM, Supine): Number of arousals per hour of REM sleep in supine position from type II polysomnography",신규클래스,arousal|sleep arousal,psg-arousal,Sleep and Circadian Studies/Polysomnography/Sleep Electroencephalogram (EEG)/Arousals,MESA
+Arousal Index: Number of arousals per hour of sleep from polysomnography,신규클래스,arousal|sleep arousal,psg-arousal,Harmonized/Polysomnography/Arousals,MESA
+Arousal Index: Number of arousals per hour of sleep from type II polysomnography,신규클래스,arousal|sleep arousal,psg-arousal,Sleep and Circadian Studies/Polysomnography/Sleep Electroencephalogram (EEG)/Arousals,MESA
+"Arousals per hour (Non-rapid eye movement sleep (NREM), Non-supine, all oxygen desaturations)",신규클래스,arousal|sleep arousal,psg-arousal,Measurements/Polysomnography/Arousals,SHHS
+"Arousals per hour (Non-rapid eye movement sleep (NREM), Supine, all oxygen desaturations)",신규클래스,arousal|sleep arousal,psg-arousal,Measurements/Polysomnography/Arousals,SHHS
+"Arousals per hour (Rapid eye movement sleep (REM), Non-supine, all oxygen desaturations)",신규클래스,arousal|sleep arousal,psg-arousal,Measurements/Polysomnography/Arousals,SHHS
+"Arousals per hour (Rapid eye movement sleep (REM), Supine, all oxygen desaturations)",신규클래스,arousal|sleep arousal,psg-arousal,Measurements/Polysomnography/Arousals,SHHS
+Aspirin From 280804 (Anti-Inflam Agents),재질의,aspirin,med-aspirin,Medications,SHHS
+Asthma attack in last 12 months,재질의,asthma attack|asthma,mh-asthma,Medical History,SHHS
+Average oxygen saturation (SaO2) in sleep,재질의,oxygen saturation measurement|oxygen saturation,psg-sat,Measurements/Polysomnography/Oxygen Saturation,SHHS
+Average oxygen saturation in sleep,재질의,oxygen saturation measurement|oxygen saturation,psg-sat,Harmonized/Polysomnography/Oxygen Saturation,MESA
+Central Apnea Index - numer of [central apneas] per hour of sleep,신규클래스,apnea hypopnea index|apnea,psg-subindex,Measurements/Polysomnography/Respiratory Events/Indexes,SHHS
+Central Apnea Index: (Central apneas with no oxygen desaturation threshold used and with or without arousal) / hour of sleep,신규클래스,apnea hypopnea index|apnea,psg-subindex,Harmonized/Polysomnography/Apnea-Hypopnea Indices,MESA
+Central Apnea-Hypopnea Index (AHI) >= 3% - number of [central apneas] and [hypopneas with >= 3% oxygen desaturation or arousal] per hour of sleep,신규클래스,apnea hypopnea index|apnea,psg-subindex,Measurements/Polysomnography/Respiratory Events/Indexes,SHHS
+Central Apnea-Hypopnea Index (AHI) >= 3% - number of [central apneas] and [hypopneas with >= 3% oxygen desaturation] per hour of sleep,신규클래스,apnea hypopnea index|apnea,psg-subindex,Measurements/Polysomnography/Respiratory Events/Indexes,SHHS
+Central Apnea-Hypopnea Index (AHI) >= 4% - number of [central apneas] and [hypopneas with >= 4% oxygen desaturation or arousal] per hour of sleep,신규클래스,apnea hypopnea index|apnea,psg-subindex,Measurements/Polysomnography/Respiratory Events/Indexes,SHHS
+Central Apnea-Hypopnea Index (AHI) >= 4% - number of [central apneas] and [hypopneas with >= 4% oxygen desaturation] per hour of sleep,신규클래스,apnea hypopnea index|apnea,psg-subindex,Measurements/Polysomnography/Respiratory Events/Indexes,SHHS
+Central Apnea-Hypopnea Index: (Central apneas with no oxygen desaturation threshold used and with or without arousal+ hypopneas with > 30% flow reduction and >= 3% oxygen desaturation and with or without arousal) / hour of sleep from type II polysomnography,신규클래스,apnea hypopnea index|apnea,psg-subindex,Sleep and Circadian Studies/Polysomnography/Sleep Disordered Breathing/Apnea-Hypopnea Frequency Indices,MESA
+Central Apnea-Hypopnea Index: (Central apneas with no oxygen desaturation threshold used and with or without arousal+ hypopneas with > 30% flow reduction and >= 3% oxygen desaturation or with arousal) / hour of sleep from type II polysomnography,신규클래스,apnea hypopnea index|apnea,psg-subindex,Sleep and Circadian Studies/Polysomnography/Sleep Disordered Breathing/Apnea-Hypopnea Frequency Indices,MESA
+Central Apnea-Hypopnea Index: (Central apneas with no oxygen desaturation threshold used and with or without arousal+ hypopneas with > 30% flow reduction and >= 4% oxygen desaturation and with or without arousal) / hour of sleep from type II polysomnography,신규클래스,apnea hypopnea index|apnea,psg-subindex,Sleep and Circadian Studies/Polysomnography/Sleep Disordered Breathing/Apnea-Hypopnea Frequency Indices,MESA
+Central Apnea-Hypopnea Index: (Central apneas with no oxygen desaturation threshold used and with or without arousal+ hypopneas with > 30% flow reduction and >= 4% oxygen desaturation or with arousal) / hour of sleep from type II polysomnography,신규클래스,apnea hypopnea index|apnea,psg-subindex,Sleep and Circadian Studies/Polysomnography/Sleep Disordered Breathing/Apnea-Hypopnea Frequency Indices,MESA
+Chance of dozing while at dinner table,설문항목,Epworth sleepiness scale|excessive daytime somnolence,q-ess,Sleep Questionnaires/Hypersomnia,MESA
+Chance of dozing while driving,설문항목,Epworth sleepiness scale|excessive daytime somnolence,q-ess,Sleep Questionnaires/Hypersomnia,MESA
+Clock time when the recording (study) begins from type II polysomnography,관리변수,,admin-rec,Sleep and Circadian Studies/Polysomnography/Sleep Electroencephalogram (EEG)/Sleep Architecture,MESA
+Clock time when the recording (study) ends from type II polysomnography,관리변수,,admin-rec,Sleep and Circadian Studies/Polysomnography/Sleep Electroencephalogram (EEG)/Sleep Architecture,MESA
+Completed sleep health questionnaire form,관리변수,,admin-form,Interim,SHHS
+CPAP or BiPAP Machine for Sleep Apnea: Self-reported,재질의,continuous positive airway pressure,tx-cpap,Sleep Treatment,MESA
+Current snore frequency,설문항목,snoring,q-snore,Interim,SHHS
+Days from baseline to first myocardial infarction (MI) or stroke,파생변수,myocardial infarction,cvd-mi,CVD Outcomes,SHHS
+Days per month working extra hours beyong usual schedule,설문항목,shift work|work schedule,q-shift,Sociodemographics/Employment,MESA
+Days to Fatal Cardiovascular Disease (CVD) Since Baseline,파생변수,cardiovascular disease,cvd-cvd,CVD Outcomes,SHHS
+Days to Fatal Coronary Heart Disease (CHD) Since Baseline,파생변수,coronary heart disease|coronary arteriosclerosis,cvd-chd,CVD Outcomes,SHHS
+Days to First Angina Episodes Since Baseline,파생변수,angina pectoris,cvd-angina,CVD Outcomes,SHHS
+Days to Most Recent Contact or Death Since Baseline,관리변수,,admin-contact,CVD Outcomes,SHHS
+Dental (Oral) Device for Sleep Apnea: Self-reported,재질의,mandibular advancement|oral appliance,tx-dental,Sleep Treatment,MESA
+Digitalis preparations,재질의,digitalis|digoxin,med-digitalis,Medications,SHHS
+Doctor of Medicine (MD) Reported Angina,파생변수,angina pectoris,cvd-angina,Medical History,SHHS
+Doctor of Medicine (MD) Reported Coronary Angioplasty,파생변수,percutaneous transluminal coronary angioplasty|angioplasty,cvd-ptca,Medical History,SHHS
+Doctor of Medicine (MD) Reported coronary artery bypass graft (CABG),파생변수,coronary artery bypass graft,cvd-cabg,Medical History,SHHS
+Doctor of Medicine (MD) Reported Heart Failure,파생변수,congestive heart failure|heart failure,cvd-chf,Medical History,SHHS
+Doctor of Medicine (MD) Reported myocardial infarction (MI),파생변수,myocardial infarction,cvd-mi,Medical History,SHHS
+Doctor of Medicine (MD) Reported Other Heart Surgery,파생변수,cardiac surgery|heart surgery,cvd-surgery,Medical History,SHHS
+Doctor of Medicine (MD) Reported Stroke,파생변수,cerebrovascular accident|stroke,cvd-stroke,Medical History,SHHS
+Doppler Systolic blood pressure (BP),재질의,systolic blood pressure,bp-systolic,Questionnaires/SHHS2/Physical Measurements,SHHS
+Ever smoked cigarettes,재질의,cigarette smoking|tobacco smoking,demo-smoke,Harmonized/Lifestyle and Behavioral Health,MESA
+Experience desire to move legs because of discomfort or disagreeable sensations in legs,설문항목,restless legs syndrome,q-rls,Sleep Questionnaires/Parasomnia,MESA
+Fatal Cardiovascular Disease (CVD) Since Baseline?,파생변수,cardiovascular disease,cvd-cvd,CVD Outcomes,SHHS
+Fatal Coronary Heart Disease (CHD) Since Baseline?,파생변수,coronary heart disease|coronary arteriosclerosis,cvd-chd,CVD Outcomes,SHHS
+Fatal Stroke Since Baseline?,파생변수,cerebrovascular accident|stroke,cvd-stroke,CVD Outcomes,SHHS
+Feel need to move to relieve discomfort by walking or rub legs,설문항목,restless legs syndrome,q-rls,Sleep Questionnaires/Parasomnia,MESA
+First Generation Sulfonylureas,재질의,sulfonylurea,med-sulfonyl,Medications,SHHS
+Frequency of breathing stoppage during sleep,설문항목,apnea|sleep apnea syndrome,q-brstop,Interim,SHHS
+Frequency of breathing-stop during sleep in the past 4 weeks,설문항목,apnea|sleep apnea syndrome,q-brstop,Sleep Questionnaires/Sleep Disordered Breathing,MESA
+Frequency of irritability due to sleep difficulties in the last 4 weeks,설문항목,irritability,q-irrit,Sleep Questionnaires/Sleep Disturbance or Insomnia,MESA
+Frequency of snoring in the past 4 weeks,설문항목,snoring,q-snore,Sleep Questionnaires/Sleep Disordered Breathing,MESA
+Frequency of taking sleeping pills to help with sleep in the last 4 weeks,설문항목,hypnotic|sedative,q-pills,Sleep Questionnaires/Sleep Disturbance or Insomnia,MESA
+Functional Outcomes of Sleep Questionnaire (FOSQ) Score,설문항목,excessive daytime somnolence|sleepiness,q-fosq,Questionnaires/SHHS2/FOSQ,SHHS
+Gender of the participant,재질의,gender|administrative gender,demo-gender,Administrative,MESA
+Have ever snored,설문항목,snoring,q-snore,Interim,SHHS
+Hmg Coa Reducatace Inhibitors (Statins),재질의,HMG-CoA reductase inhibitor|statin,med-statin,Medications,SHHS
+Horne-Ostberg Morningness-Eveningness Questionnaire: Ideal scheduled wake time,설문항목,chronotype|morning person,q-meq,Sleep Questionnaires/Chronotype,MESA
+Horne-Ostberg Morningness-Eveningness Questionnaire: Morning or evening type,설문항목,chronotype|morning person,q-meq,Sleep Questionnaires/Chronotype,MESA
+"Horne-Ostberg Morningness-Eveningness Questionnaire: Time of day reaching ""feeling best"" peak",설문항목,chronotype|morning person,q-meq,Sleep Questionnaires/Chronotype,MESA
+Horne-Ostberg Morningness-Eveningness Questionnaire: Time of evening you need sleep,설문항목,chronotype|morning person,q-meq,Sleep Questionnaires/Chronotype,MESA
+Horne-Ostberg Morningness-Eveningness Questionnaire: Tiredness during first half-hour after waking,설문항목,chronotype|morning person,q-meq,Sleep Questionnaires/Chronotype,MESA
+Immediate-Release Ccbs (Nifir Or Dihir Or Verir Or Dltir),재질의,calcium channel blocker,med-ccb,Medications,SHHS
+Immediate-release CCBS = NFIR or DIHIR or VERIR or DLTIR,재질의,calcium channel blocker,med-ccb,Medications,SHHS
+Indicates whether the subject's age (in years) used during date obfuscation is greater than 89 years,관리변수,,admin-obfusc,Harmonized/Sociodemographics,MESA
+K-Channel Blockers To Enhance Insulin Secretion For Diabetics,재질의,sulfonylurea,med-sulfonyl,Medications,SHHS
+Minimum oxygen saturation (SaO2) in sleep,재질의,oxygen saturation measurement|oxygen saturation,psg-sat,Measurements/Polysomnography/Oxygen Saturation,SHHS
+Minimum oxygen saturation in sleep,재질의,oxygen saturation measurement|oxygen saturation,psg-sat,Harmonized/Polysomnography/Oxygen Saturation,MESA
+Minutes spent in rapid eye movement sleep (REM),신규클래스,sleep stage|rapid eye movement sleep,psg-stagetime,Measurements/Polysomnography/Sleep Architecture,SHHS
+Miscellaneous Lipid-Lowering Drugs,재질의,antilipemic|lipid lowering,med-lipid,Medications,SHHS
+Modified Horne-Ostberg Morningness-Eveningness Questionnaire (MEQ) Score,설문항목,chronotype|morning person,q-meq,Sleep Questionnaires/Chronotype,MESA
+Morning Survey: bottles or cans of beer before bed,설문항목,alcohol consumption|alcohol intake,q-alcohol,Questionnaires/SHHS1/Morning Survey,SHHS
+Morning Survey: cigarettes before bed,설문항목,tobacco smoking|cigarette smoking,q-tobacco-bed,Questionnaires/SHHS1/Morning Survey,SHHS
+Morning Survey: cigars before bed,설문항목,tobacco smoking|cigarette smoking,q-tobacco-bed,Questionnaires/SHHS1/Morning Survey,SHHS
+Morning Survey: cups of coffee before bed,설문항목,caffeine intake|caffeine,q-caffeine,Questionnaires/SHHS1/Morning Survey,SHHS
+Morning Survey: cups of tea before bed,설문항목,caffeine intake|caffeine,q-caffeine,Questionnaires/SHHS1/Morning Survey,SHHS
+Morning Survey: Date completed,관리변수,,admin-form,Questionnaires/SHHS1/Morning Survey,SHHS
+Morning Survey: difficulty falling asleep,설문항목,sleep onset insomnia|insomnia,q-diffasleep,Questionnaires/SHHS1/Morning Survey,SHHS
+Morning Survey: discomfort from plastic piece over lip,관리변수,,admin-equip,Questionnaires/SHHS1/Morning Survey,SHHS
+Morning Survey: discomfort from vest,관리변수,,admin-equip,Questionnaires/SHHS1/Morning Survey,SHHS
+Morning Survey: discomfort from wires on face,관리변수,,admin-equip,Questionnaires/SHHS1/Morning Survey,SHHS
+Morning Survey: discomfort from wires on head,관리변수,,admin-equip,Questionnaires/SHHS1/Morning Survey,SHHS
+Morning Survey: glasses of wine before bed,설문항목,alcohol consumption|alcohol intake,q-alcohol,Questionnaires/SHHS1/Morning Survey,SHHS
+Morning Survey: glasses or cans of soda before bed,설문항목,caffeine intake|caffeine,q-caffeine,Questionnaires/SHHS1/Morning Survey,SHHS
+Morning Survey: How long slept (hours),설문항목,sleep duration,q-sleptdur,Questionnaires/SHHS1/Morning Survey,SHHS
+Morning Survey: How long slept (minutes),설문항목,sleep duration,q-sleptdur,Questionnaires/SHHS1/Morning Survey,SHHS
+Morning Survey: medications before bed,설문항목,hypnotic|sedative,q-medbed,Questionnaires/SHHS1/Morning Survey,SHHS
+Morning Survey: minutes to fall asleep,설문항목,sleep latency|sleep onset,q-minasleep,Questionnaires/SHHS1/Morning Survey,SHHS
+Morning Survey: mixed drinks before bed,설문항목,alcohol consumption|alcohol intake,q-alcohol,Questionnaires/SHHS1/Morning Survey,SHHS
+Morning Survey: Nasal stuffiness interfered with sleep,설문항목,nasal congestion|nasal obstruction,q-nasal,Questionnaires/SHHS2/Morning Survey,SHHS
+"Morning Survey: Nasal stuffiness, discharge last night",설문항목,nasal congestion|nasal obstruction,q-nasal,Questionnaires/SHHS2/Morning Survey,SHHS
+Morning Survey: pipe bowls before bed,설문항목,tobacco smoking|cigarette smoking,q-tobacco-bed,Questionnaires/SHHS1/Morning Survey,SHHS
+Morning Survey: Quality of sleep compared to usual,설문항목,sleep quality,q-quality,Questionnaires/SHHS1/Morning Survey,SHHS
+Morning Survey: Quality of sleep light/deep,설문항목,sleep quality,q-quality,Questionnaires/SHHS1/Morning Survey,SHHS
+Morning Survey: Quality of sleep: restless/restful,설문항목,sleep quality,q-quality,Questionnaires/SHHS1/Morning Survey,SHHS
+Morning Survey: Quality of sleep: short/long,설문항목,sleep quality,q-quality,Questionnaires/SHHS1/Morning Survey,SHHS
+Morning Survey: Reported elapsed time between sleep and wakening,설문항목,sleep duration,q-sleptdur,Questionnaires/SHHS2/Morning Survey,SHHS
+Morning Survey: Reported time actually slept last night,설문항목,sleep duration,q-sleptdur,Questionnaires/SHHS2/Morning Survey,SHHS
+"Non-Steroidal Anti-Inflammatory Agents, Excluding Aspirin",재질의,non-steroidal anti-inflammatory agent|NSAID,med-nsaid,Medications,SHHS
+NSRR Subject ID,관리변수,,admin-id,Demographics,SHHS
+Number of Angina Episodes Prior to Baseline,파생변수,angina pectoris,cvd-angina,CVD Outcomes,SHHS
+Number of Angina Episodes Since Baseline,파생변수,angina pectoris,cvd-angina,CVD Outcomes,SHHS
+"Number of Arousals (Non-rapid eye movement sleep (NREM), Non-supine, all oxygen desaturations)",신규클래스,arousal|sleep arousal,psg-arousal,Measurements/Polysomnography/Arousals,SHHS
+"Number of Arousals (Non-rapid eye movement sleep (NREM), Supine, all oxygen desaturations)",신규클래스,arousal|sleep arousal,psg-arousal,Measurements/Polysomnography/Arousals,SHHS
+"Number of Arousals (Rapid eye movement sleep (REM), Non-supine, all oxygen desaturations)",신규클래스,arousal|sleep arousal,psg-arousal,Measurements/Polysomnography/Arousals,SHHS
+"Number of Arousals (Rapid eye movement sleep (REM), Supine, all oxygen desaturations)",신규클래스,arousal|sleep arousal,psg-arousal,Measurements/Polysomnography/Arousals,SHHS
+Number of Congestive Heart Failures (CHFs) Since to Baseline,파생변수,congestive heart failure|heart failure,cvd-chf,CVD Outcomes,SHHS
+Number of myocardial infarctions (MIs) Prior to Baseline,파생변수,myocardial infarction,cvd-mi,CVD Outcomes,SHHS
+Number of Procedures Related to Heart Attack Prior to Baseline,파생변수,revascularization|percutaneous coronary intervention,cvd-revasc,CVD Outcomes,SHHS
+Number of Procedures Related to Heart Attack Since Baseline,파생변수,revascularization|percutaneous coronary intervention,cvd-revasc,CVD Outcomes,SHHS
+Number of Revascularization Procedures Prior to Baseline,파생변수,revascularization|percutaneous coronary intervention,cvd-revasc,CVD Outcomes,SHHS
+Number of sleep to awake shifts per hour,신규클래스,sleep fragmentation|arousal,psg-shift,Measurements/Polysomnography/Sleep Architecture,SHHS
+Number of Strokes Prior to Baseline,파생변수,cerebrovascular accident|stroke,cvd-stroke,CVD Outcomes,SHHS
+Obstructive Apnea Hypopnea Index: (Obstructive apneas with no oxygen desaturation threshold used and with or without arousal+ hypopneas with > 30% flow reduction and no oxygen desaturation threshold used and with or without arousal) / hour of sleep from type II polysomnography,신규클래스,apnea hypopnea index|apnea,psg-subindex,Sleep and Circadian Studies/Polysomnography/Sleep Disordered Breathing/Apnea-Hypopnea Frequency Indices,MESA
+Obstructive Apnea Index - number of [obstructive apneas] per hour of sleep,신규클래스,apnea hypopnea index|apnea,psg-subindex,Measurements/Polysomnography/Respiratory Events/Indexes,SHHS
+Obstructive Apnea Index: (Obstructive apneas with no oxygen desaturation threshold used and with or without arousal) / hour of sleep,신규클래스,apnea hypopnea index|apnea,psg-subindex,Harmonized/Polysomnography/Apnea-Hypopnea Indices,MESA
+Obstructive Apnea-Hypopnea Index (AHI) >= 3% - number of [obstructive apneas] and [hypopneas with >= 3% oxygen desaturation or arousal] per hour of sleep,신규클래스,apnea hypopnea index|apnea,psg-subindex,Measurements/Polysomnography/Respiratory Events/Indexes,SHHS
+Obstructive Apnea-Hypopnea Index (AHI) >= 3% - number of [obstructive apneas] and [hypopneas with >= 3% oxygen desaturation] per hour of sleep,신규클래스,apnea hypopnea index|apnea,psg-subindex,Measurements/Polysomnography/Respiratory Events/Indexes,SHHS
+Obstructive Apnea-Hypopnea Index (AHI) >= 4% - number of [obstructive apneas] and [hypopneas with >= 4% oxygen desaturation or arousal] per hour of sleep,신규클래스,apnea hypopnea index|apnea,psg-subindex,Measurements/Polysomnography/Respiratory Events/Indexes,SHHS
+Obstructive Apnea-Hypopnea Index (AHI) >= 4% - number of [obstructive apneas] and [hypopneas with >= 4% oxygen desaturation] per hour of sleep,신규클래스,apnea hypopnea index|apnea,psg-subindex,Measurements/Polysomnography/Respiratory Events/Indexes,SHHS
+Obstructive Apnea-Hypopnea Index (OAHI) at >=4% oxygen desaturation,신규클래스,apnea hypopnea index|apnea,psg-subindex,Measurements/Polysomnography/Respiratory Events/Indexes,SHHS
+Obstructive Apnea-Hypopnea Index for non-supine sleep: (Obstructive apneas + hypopneas with >= 3% oxygen desaturation) / hour of sleep in non-supine position,신규클래스,apnea hypopnea index|apnea,psg-subindex,Harmonized/Polysomnography/Apnea-Hypopnea Indices,MESA
+Obstructive Apnea-Hypopnea Index for NREM sleep: (Obstructive apneas + hypopneas with >= 3% oxygen desaturation) / hour of NREM sleep,신규클래스,apnea hypopnea index|apnea,psg-subindex,Harmonized/Polysomnography/Apnea-Hypopnea Indices,MESA
+Obstructive Apnea-Hypopnea Index for NREM sleep: (Obstructive apneas + hypopneas with >= 4% oxygen desaturation) / hour of NREM sleep,신규클래스,apnea hypopnea index|apnea,psg-subindex,Harmonized/Polysomnography/Apnea-Hypopnea Indices,MESA
+Obstructive Apnea-Hypopnea Index for REM sleep: (Obstructive apneas + hypopneas with >= 3% oxygen desaturation) / hour of REM sleep,신규클래스,apnea hypopnea index|apnea,psg-subindex,Harmonized/Polysomnography/Apnea-Hypopnea Indices,MESA
+Obstructive Apnea-Hypopnea Index for REM sleep: (Obstructive apneas + hypopneas with >= 4% oxygen desaturation) / hour of REM sleep,신규클래스,apnea hypopnea index|apnea,psg-subindex,Harmonized/Polysomnography/Apnea-Hypopnea Indices,MESA
+Obstructive Apnea-Hypopnea Index for supine sleep: (Obstructive apneas + hypopneas with >= 3% oxygen desaturation) / hour of sleep in supine position,신규클래스,apnea hypopnea index|apnea,psg-subindex,Harmonized/Polysomnography/Apnea-Hypopnea Indices,MESA
+Obstructive Apnea-Hypopnea Index: (Obstructive apneas + hypopneas with >= 3% oxygen desaturation) / hour of sleep,신규클래스,apnea hypopnea index|apnea,psg-subindex,Harmonized/Polysomnography/Apnea-Hypopnea Indices,MESA
+Obstructive Apnea-Hypopnea Index: (Obstructive apneas + hypopneas with >= 4% oxygen desaturation) / hour of sleep,신규클래스,apnea hypopnea index|apnea,psg-subindex,Harmonized/Polysomnography/Apnea-Hypopnea Indices,MESA
+Obstructive Apnea-Hypopnea Index: (Obstructive apneas with no oxygen desaturation threshold used and with or without arousal+ hypopneas with > 30% flow reduction and >= 3% oxygen desaturation and with or without arousal) / hour of sleep from type II polysomnography,신규클래스,apnea hypopnea index|apnea,psg-subindex,Sleep and Circadian Studies/Polysomnography/Sleep Disordered Breathing/Apnea-Hypopnea Frequency Indices,MESA
+Obstructive Apnea-Hypopnea Index: (Obstructive apneas with no oxygen desaturation threshold used and with or without arousal+ hypopneas with > 30% flow reduction and >= 3% oxygen desaturation or with arousal) / hour of sleep from type II polysomnography,신규클래스,apnea hypopnea index|apnea,psg-subindex,Sleep and Circadian Studies/Polysomnography/Sleep Disordered Breathing/Apnea-Hypopnea Frequency Indices,MESA
+Obstructive Apnea-Hypopnea Index: (Obstructive apneas with no oxygen desaturation threshold used and with or without arousal+ hypopneas with > 30% flow reduction and >= 4% oxygen desaturation and with or without arousal) / hour of sleep from type II polysomnography,신규클래스,apnea hypopnea index|apnea,psg-subindex,Sleep and Circadian Studies/Polysomnography/Sleep Disordered Breathing/Apnea-Hypopnea Frequency Indices,MESA
+Obstructive Apnea-Hypopnea Index: (Obstructive apneas with no oxygen desaturation threshold used and with or without arousal+ hypopneas with > 30% flow reduction and >= 4% oxygen desaturation or with arousal) / hour of sleep from type II polysomnography,신규클래스,apnea hypopnea index|apnea,psg-subindex,Sleep and Circadian Studies/Polysomnography/Sleep Disordered Breathing/Apnea-Hypopnea Frequency Indices,MESA
+Other reason sleep apnea not treated,설문항목,sleep apnea syndrome,tx-reason,Interim,SHHS
+Other sleep disorder description,관리변수,,admin-freetext,Interim,SHHS
+Overall instability (NREM),신규클래스,sleep disordered breathing|sleep apnea,psg-endotype,Sleep and Circadian Studies/Polysomnography/Sleep Disordered Breathing/Endotypes,MESA
+Overall Respiratory Disturbance Index (RDI) (Non-rapid eye movement sleep (NREM)) at >=3% oxygen desaturation,신규클래스,apnea hypopnea index|apnea,psg-subindex,Measurements/Polysomnography/Respiratory Events/Indexes,SHHS
+Overall Respiratory Disturbance Index (RDI) (Rapid eye movement sleep (REM)) at >=3% oxygen desaturation,신규클래스,apnea hypopnea index|apnea,psg-subindex,Measurements/Polysomnography/Respiratory Events/Indexes,SHHS
+Overall Respiratory Disturbance Index (RDI) all oxygen desaturations,신규클래스,apnea hypopnea index|apnea,psg-subindex,Measurements/Polysomnography/Respiratory Events/Indexes,SHHS
+Overall Respiratory Disturbance Index (RDI) at >=3% oxygen desaturation,신규클래스,apnea hypopnea index|apnea,psg-subindex,Measurements/Polysomnography/Respiratory Events/Indexes,SHHS
+Overall Respiratory Disturbance Index (RDI) at >=3% oxygen desaturation or arousal,신규클래스,apnea hypopnea index|apnea,psg-subindex,Measurements/Polysomnography/Respiratory Events/Indexes,SHHS
+Overall Respiratory Disturbance Index (RDI) at >=4% oxygen desaturation,신규클래스,apnea hypopnea index|apnea,psg-subindex,Measurements/Polysomnography/Respiratory Events/Indexes,SHHS
+Participant Age at MESA Sleep Visit,재질의,age|age at visit,demo-age,Administrative,MESA
+Percent of sleep time in Apnea,신규클래스,apnea,psg-pct-ah,Measurements/Polysomnography/Sleep Architecture,SHHS
+Percent of sleep time in Hypopnea,신규클래스,apnea,psg-pct-ah,Measurements/Polysomnography/Sleep Architecture,SHHS
+Percent Time in rapid eye movement sleep (REM),신규클래스,sleep stage|rapid eye movement sleep,psg-stagetime,Measurements/Polysomnography/Sleep Architecture,SHHS
+Percent Time in Stage 1,신규클래스,sleep stage|rapid eye movement sleep,psg-stagetime,Measurements/Polysomnography/Sleep Architecture,SHHS
+Percent Time in Stage 2,신규클래스,sleep stage|rapid eye movement sleep,psg-stagetime,Measurements/Polysomnography/Sleep Architecture,SHHS
+Percent Time in Stage 3/4,신규클래스,sleep stage|rapid eye movement sleep,psg-stagetime,Measurements/Polysomnography/Sleep Architecture,SHHS
+Percent Time non-supine,신규클래스,supine body position|body position,psg-position,Measurements/Polysomnography/Sleep Architecture,SHHS
+Percent Time supine,신규클래스,supine body position|body position,psg-position,Measurements/Polysomnography/Sleep Architecture,SHHS
+Percent total sleep duration with below 90% oxygen saturation from type II polysomnography,신규클래스,hypoxemia,psg-t90,Sleep and Circadian Studies/Polysomnography/Sleep Disordered Breathing/Oxygen Saturation Metrics,MESA
+"Percentage of total sleep duration (i.e., total sleep time, TST) in REM from polysomnography",신규클래스,sleep stage|rapid eye movement sleep,psg-stagetime,Harmonized/Polysomnography/Sleep Architecture,MESA
+"Percentage of total sleep duration (i.e., total sleep time, TST) in stage 1 from polysomnography",신규클래스,sleep stage|rapid eye movement sleep,psg-stagetime,Harmonized/Polysomnography/Sleep Architecture,MESA
+"Percentage of total sleep duration (i.e., total sleep time, TST) in stage 2 from polysomnography",신규클래스,sleep stage|rapid eye movement sleep,psg-stagetime,Harmonized/Polysomnography/Sleep Architecture,MESA
+"Percentage of total sleep duration (i.e., total sleep time, TST) in stage 3/4 from polysomnography",신규클래스,sleep stage|rapid eye movement sleep,psg-stagetime,Harmonized/Polysomnography/Sleep Architecture,MESA
+Percentage of total sleep duration in non-supine position from type II polysomnography,신규클래스,sleep stage|rapid eye movement sleep,psg-stagetime,Sleep and Circadian Studies/Polysomnography/Sleep Electroencephalogram (EEG)/Sleep Architecture,MESA
+Percentage of total sleep duration in REM from type II polysomnography,신규클래스,sleep stage|rapid eye movement sleep,psg-stagetime,Sleep and Circadian Studies/Polysomnography/Sleep Electroencephalogram (EEG)/Sleep Architecture,MESA
+Percentage of total sleep duration in Stage 1 from type II polysomnography,신규클래스,sleep stage|rapid eye movement sleep,psg-stagetime,Sleep and Circadian Studies/Polysomnography/Sleep Electroencephalogram (EEG)/Sleep Architecture,MESA
+Percentage of total sleep duration in Stage 2 from type II polysomnography,신규클래스,sleep stage|rapid eye movement sleep,psg-stagetime,Sleep and Circadian Studies/Polysomnography/Sleep Electroencephalogram (EEG)/Sleep Architecture,MESA
+Percentage of total sleep duration in Stage 3 and 4 from type II polysomnography,신규클래스,sleep stage|rapid eye movement sleep,psg-stagetime,Sleep and Circadian Studies/Polysomnography/Sleep Electroencephalogram (EEG)/Sleep Architecture,MESA
+Percentage of total sleep duration in supine position from type II polysomnography,신규클래스,sleep stage|rapid eye movement sleep,psg-stagetime,Sleep and Circadian Studies/Polysomnography/Sleep Electroencephalogram (EEG)/Sleep Architecture,MESA
+Polysomnography (PSG) Report: Sleep Efficiency,재질의,sleep efficiency|sleep quality,psg-eff,Measurements/Polysomnography/Sleep Architecture,SHHS
+Polysomnography (PSG) Report: Sleep Latency,재질의,sleep latency|sleep onset,psg-latency,Measurements/Polysomnography/Sleep Architecture,SHHS
+Prevalent Atrial Fibrillation (AF) at SHHS Visit 1,파생변수,atrial fibrillation,cvd-af,CVD Outcomes,SHHS
+Previous history of stroke,재질의,history of cerebrovascular accident|cerebrovascular accident,cvd-histstroke,Medical History,SHHS
+Race/ethnicity of the participant,재질의,race|ethnic group,demo-race,Administrative,MESA
+Rapid eye movement sleep (REM) Latency I,신규클래스,sleep latency|rapid eye movement sleep,psg-remlat,Measurements/Polysomnography/Sleep Architecture,SHHS
+Rapid eye movement sleep (REM) Latency I - including wake time,신규클래스,sleep latency|rapid eye movement sleep,psg-remlat,Measurements/Polysomnography/Sleep Architecture,SHHS
+Rapid eye movement sleep (REM) Latency II - excluding wake,신규클래스,sleep latency|rapid eye movement sleep,psg-remlat,Measurements/Polysomnography/Sleep Architecture,SHHS
+Reason sleep apnea not treated,설문항목,sleep apnea syndrome,tx-reason,Interim,SHHS
+REM Latency II: the interval between sleep onset and first REM while asleep (excluding wake) from type II polysomnography,신규클래스,sleep latency|rapid eye movement sleep,psg-remlat,Sleep and Circadian Studies/Polysomnography/Sleep Electroencephalogram (EEG)/Sleep Architecture,MESA
+REM Sleep Latency: the interval between the first sleep epoch and REM sleep excluding wake,신규클래스,sleep latency|rapid eye movement sleep,psg-remlat,Harmonized/Polysomnography/Sleep Architecture,MESA
+REM Sleep Latency: the interval between the first sleep epoch and REM sleep including wake,신규클래스,sleep latency|rapid eye movement sleep,psg-remlat,Harmonized/Polysomnography/Sleep Architecture,MESA
+Runny or stuffy nose,재질의,nasal congestion|rhinorrhea,mh-nasal,Medical History,SHHS
+Second Generation Sulfonylureas,재질의,sulfonylurea,med-sulfonyl,Medications,SHHS
+Self-reported daily sleep duration on weekdays from survey questionnaires,설문항목,sleep duration,q-sleepdur,Sleep Questionnaires/Sleep Habits,MESA
+Self-reported daily sleep duration on weekends from survey questionnaires,설문항목,sleep duration,q-sleepdur,Sleep Questionnaires/Sleep Habits,MESA
+Self-reported end time of the in-bed period on weekdays in 24-hour format from survey questionnaires,설문항목,bedtime|sleep duration,q-inbedtime,Sleep Questionnaires/Sleep Habits,MESA
+Self-reported end time of the in-bed period on weekends in 24-hour format from survey questionnaires,설문항목,bedtime|sleep duration,q-inbedtime,Sleep Questionnaires/Sleep Habits,MESA
+Self-reported hypertension (HTN),재질의,essential hypertension|hypertension,mh-htn,Medical History,SHHS
+Self-reported start time of the in-bed period on weekdays in 24-hour format,설문항목,bedtime|sleep duration,q-inbedtime,Sleep Questionnaires/Sleep Habits,MESA
+Self-reported start time of the in-bed period on weekends in 24-hour format,설문항목,bedtime|sleep duration,q-inbedtime,Sleep Questionnaires/Sleep Habits,MESA
+Sinus trouble,재질의,sinusitis|sinus disorder,mh-sinus,Medical History,SHHS
+Site of Arm (Ankle Arm Blood Pressure Index-AAI) Measurement,관리변수,,admin-site,Measurements/Blood Pressure,SHHS
+Site of Arm blood pressure (BP) Measurement,관리변수,,admin-site,Measurements/Blood Pressure,SHHS
+Sleep Habits Form present,관리변수,,admin-form,Interim,SHHS
+Sleep Maintenance Efficiency: the proportion of sleep duration in sleep period from type II polysomnography,신규클래스,sleep efficiency|sleep quality,psg-maint,Sleep and Circadian Studies/Polysomnography/Sleep Electroencephalogram (EEG)/Sleep Architecture,MESA
+"Sleep Maintenance Efficiency: the proportion of total sleep duration (i.e., total sleep time) in sleep period (i.e., interval between sleep onset and offset including wake) from polysomnography",신규클래스,sleep efficiency|sleep quality,psg-maint,Harmonized/Polysomnography/Sleep Architecture,MESA
+"Sleep Time (Non-rapid eye movement sleep (NREM), Non-supine)",신규클래스,sleep duration,psg-postime,Measurements/Polysomnography/Sleep Architecture,SHHS
+"Sleep Time (Non-rapid eye movement sleep (NREM), Supine)",신규클래스,sleep duration,psg-postime,Measurements/Polysomnography/Sleep Architecture,SHHS
+"Sleep Time (Rapid eye movement sleep (REM), Non-supine)",신규클래스,sleep duration,psg-postime,Measurements/Polysomnography/Sleep Architecture,SHHS
+"Sleep Time (Rapid eye movement sleep (REM), Supine)",신규클래스,sleep duration,psg-postime,Measurements/Polysomnography/Sleep Architecture,SHHS
+Sleep time used in calculations,관리변수,,admin-rec,Measurements/Polysomnography/Sleep Architecture,SHHS
+Slow-Release Ccbs (Nifsr Or Dihsr Or Versr Or Dltsr Or Amlod),재질의,calcium channel blocker,med-ccb,Medications,SHHS
+Slow-release CCBS = NIFSR or DIHSR or VERSR or DLTSR or AMLOD,재질의,calcium channel blocker,med-ccb,Medications,SHHS
+Smoked cigarettes in last 30 days,재질의,cigarette smoking|tobacco smoking,demo-smoke,Lifestyle and Behavioral Health,MESA
+Stopped breathing during sleep,설문항목,apnea|sleep apnea syndrome,q-brstop,Interim,SHHS
+Study scored sleep/wake rather than with full sleep staging if there is not sufficient quality on EEG lead. Studies scored as sleep wake have all sleep stages scored using a default of Stage 2 and no arousals are scored.,관리변수,,admin-scoring,Harmonized/Polysomnography/Signal Quality,MESA
+Subject race,재질의,race|ethnic group,demo-race,Harmonized/Sociodemographics,MESA
+Supine ankle systolic blood pressure (BP),재질의,systolic blood pressure,bp-systolic,Measurements/Blood Pressure,SHHS
+Supine arm systolic blood pressure (BP),재질의,systolic blood pressure,bp-systolic,Measurements/Blood Pressure,SHHS
+Thiazide diuretics with k-sparing agents,재질의,thiazide diuretic,med-thiazide,Medications,SHHS
+Thiazide diuretics without k-sparing agents,재질의,thiazide diuretic,med-thiazide,Medications,SHHS
+Throat/Uvula Surgery for Sleep Apnea: Self-reported,재질의,uvulopalatopharyngoplasty|palatopharyngoplasty,tx-surgery,Sleep Treatment,MESA
+Time in stage 1 sleep,신규클래스,sleep stage|rapid eye movement sleep,psg-stagetime,Measurements/Polysomnography/Sleep Architecture,SHHS
+Time in stage 2 sleep,신규클래스,sleep stage|rapid eye movement sleep,psg-stagetime,Measurements/Polysomnography/Sleep Architecture,SHHS
+Time in stage 3-4 sleep,신규클래스,sleep stage|rapid eye movement sleep,psg-stagetime,Measurements/Polysomnography/Sleep Architecture,SHHS
+Time in Stage 3/4,신규클래스,sleep stage|rapid eye movement sleep,psg-stagetime,Measurements/Polysomnography/Sleep Architecture,SHHS
+Time in stage 3/4 sleep,신규클래스,sleep stage|rapid eye movement sleep,psg-stagetime,Measurements/Polysomnography/Sleep Architecture,SHHS
+Told by doctor or some other sleep disorder,설문항목,sleep disorder,q-toldother,Interim,SHHS
+Told by doctor that you had sleep apnea,설문항목,sleep apnea syndrome,q-toldosa,Interim,SHHS
+Total duration of REM sleep from type II polysomnography,신규클래스,sleep stage|rapid eye movement sleep,psg-stagetime,Sleep and Circadian Studies/Polysomnography/Sleep Electroencephalogram (EEG)/Sleep Architecture,MESA
+Total duration of Stage 1 sleep from type II polysomnography,신규클래스,sleep stage|rapid eye movement sleep,psg-stagetime,Sleep and Circadian Studies/Polysomnography/Sleep Electroencephalogram (EEG)/Sleep Architecture,MESA
+Total duration of Stage 2 sleep from type II polysomnography,신규클래스,sleep stage|rapid eye movement sleep,psg-stagetime,Sleep and Circadian Studies/Polysomnography/Sleep Electroencephalogram (EEG)/Sleep Architecture,MESA
+Total duration of Stage 3 and 4 sleep from type II polysomnography,신규클래스,sleep stage|rapid eye movement sleep,psg-stagetime,Sleep and Circadian Studies/Polysomnography/Sleep Electroencephalogram (EEG)/Sleep Architecture,MESA
+Total In-bed Period: the interval between lights off/in-bed time and lights on/out-bed time from polysomnography,신규클래스,sleep duration,psg-inbed,Harmonized/Polysomnography/Sleep Architecture,MESA
+Total In-bed Period: the interval between lights out/in-bed time and lights off/out-bed time from type II polysomnography,신규클래스,sleep duration,psg-inbed,Sleep and Circadian Studies/Polysomnography/Sleep Electroencephalogram (EEG)/Sleep Architecture,MESA
+Total number of arousals during NREM sleep in non-supine position from type II polysomnography,신규클래스,arousal|sleep arousal,psg-arousal,Sleep and Circadian Studies/Polysomnography/Sleep Electroencephalogram (EEG)/Arousals,MESA
+Total number of arousals during NREM sleep in supine position from type II polysomnography,신규클래스,arousal|sleep arousal,psg-arousal,Sleep and Circadian Studies/Polysomnography/Sleep Electroencephalogram (EEG)/Arousals,MESA
+Total number of arousals during REM sleep in non-supine position from type II polysomnography,신규클래스,arousal|sleep arousal,psg-arousal,Sleep and Circadian Studies/Polysomnography/Sleep Electroencephalogram (EEG)/Arousals,MESA
+Total number of arousals during REM sleep in supine position from type II polysomnography,신규클래스,arousal|sleep arousal,psg-arousal,Sleep and Circadian Studies/Polysomnography/Sleep Electroencephalogram (EEG)/Arousals,MESA
+Total Recording Period: the interval between recording start and end time from type II polysomnography,관리변수,,admin-rec,Sleep and Circadian Studies/Polysomnography/Sleep Electroencephalogram (EEG)/Sleep Architecture,MESA
+Total Sleep Duration: the interval between sleep onset and sleep offset while the participant is asleep from polysomnography,재질의,sleep duration,psg-tst,Harmonized/Polysomnography/Sleep Architecture,MESA
+Total Sleep Duration: the interval between sleep onset and sleep offset while the participant is asleep from type II polysomnography,재질의,sleep duration,psg-tst,Sleep and Circadian Studies/Polysomnography/Sleep Electroencephalogram (EEG)/Sleep Architecture,MESA
+Treated for snoring since sleep study,설문항목,snoring,q-snore,Interim,SHHS
+Type of fatal stroke,파생변수,cerebrovascular accident|stroke,cvd-stroke,CVD Outcomes,SHHS
+Usual number of naps per week,설문항목,nap|napping,q-nap,Interim,SHHS
+"Vasodilators with diuretics, a mixed group",재질의,vasodilator,med-vasodil,Medications,SHHS
+Vital status at last contact,파생변수,death,cvd-vital,CVD Outcomes,SHHS
+Weekday or workday: usual hours of sleep,설문항목,sleep duration,q-sleepdur,Interim,SHHS
+Weekend or non-workday: usual hours of sleep,설문항목,sleep duration,q-sleepdur,Interim,SHHS
+Weight at Blood Pressure (BP) measurement,재질의,body weight,bp-weight,Measurements/Anthropometry,SHHS
+Women's Health Initiative Insomnia Rating Scale: Total score,설문항목,insomnia,q-whiirs,Sleep Questionnaires/Sleep Disturbance or Insomnia/Women's Health Initiative Insomnia Rating Scale (WHIIRS),MESA
+Women's Health Initiative Insomnia Rating Scale: Trouble falling asleep,설문항목,sleep onset insomnia|insomnia,q-whiirs-on,Sleep Questionnaires/Sleep Disturbance or Insomnia/Women's Health Initiative Insomnia Rating Scale (WHIIRS),MESA
+Women's Health Initiative Insomnia Rating Scale: Trouble getting back to sleep after waking too early,설문항목,early morning awakening|insomnia,q-whiirs-ema,Sleep Questionnaires/Sleep Disturbance or Insomnia/Women's Health Initiative Insomnia Rating Scale (WHIIRS),MESA
+Women's Health Initiative Insomnia Rating Scale: Typical night sleep,설문항목,insomnia,q-whiirs,Sleep Questionnaires/Sleep Disturbance or Insomnia/Women's Health Initiative Insomnia Rating Scale (WHIIRS),MESA
+Women's Health Initiative Insomnia Rating Scale: Wake earlier than planned,설문항목,early morning awakening|insomnia,q-whiirs-ema,Sleep Questionnaires/Sleep Disturbance or Insomnia/Women's Health Initiative Insomnia Rating Scale (WHIIRS),MESA
+Women's Health Initiative Insomnia Rating Scale: Wake several times at night,설문항목,sleep maintenance insomnia|insomnia,q-whiirs-mnt,Sleep Questionnaires/Sleep Disturbance or Insomnia/Women's Health Initiative Insomnia Rating Scale (WHIIRS),MESA
