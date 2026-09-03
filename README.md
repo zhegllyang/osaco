@@ -1,5 +1,7 @@
 # OSACO — Obstructive Sleep Apnea Cohort Variable Ontology
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22268106.svg)](https://doi.org/10.5281/zenodo.22268106)
+
 OSACO is an application ontology of obstructive sleep apnea (OSA)-related variables,
 constructed from the Sleep Heart Health Study (SHHS v0.14.0) data dictionary and
 cross-validated against MESA (v0.8.0), both distributed by the
@@ -41,7 +43,7 @@ from NSRR under a data use agreement.
 
 ## Citation
 
-If you use OSACO, please cite: *[manuscript under review — citation to be added]*.
+If you use OSACO, please cite the Zenodo archive (Song J, Erdenebayar U. OSACO: Obstructive Sleep Apnea Cohort Variable Ontology, v0.1.0. Zenodo; 2026. https://doi.org/10.5281/zenodo.22268107) and the accompanying manuscript *(under review — citation to be added)*.
 
 ## License
 

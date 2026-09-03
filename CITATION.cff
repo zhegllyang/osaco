@@ -4,6 +4,11 @@ title: "OSACO: Obstructive Sleep Apnea Cohort Variable Ontology"
 version: 0.1.0
 date-released: 2026-09-03
 license: CC-BY-4.0
+doi: 10.5281/zenodo.22268107
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.22268106
+    description: "Concept DOI (all versions)"
 repository-code: "https://github.com/zhegllyang/osaco"
 authors:
   - family-names: Song
