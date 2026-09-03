@@ -44,7 +44,7 @@ g.add((ONT, DCTERMS.description, Literal(
     "(sleep stage, body position, desaturation threshold, arousal criterion). "
     "Concepts are cross-referenced to SNOMED CT, HPO, MONDO, and EFO via "
     "skos:exactMatch (equivalent) and skos:relatedMatch (related/broader).", lang="en")))
-g.add((ONT, OWL.versionInfo, Literal("0.1.0")))
+g.add((ONT, OWL.versionInfo, Literal("0.1.1")))
 g.add((ONT, DCTERMS.source, Literal("National Sleep Research Resource (sleepdata.org): SHHS, MESA")))
 
 def C(local):  # 클래스 URI
@@ -61,7 +61,8 @@ def add_class(local, label, parent=None, comment=None):
     return u
 
 # ── 상위 클래스 ───────────────────────────────────────────────────────────
-root = add_class("OSACohortConcept", "OSA cohort concept")
+root = add_class("OSACohortConcept", "OSA cohort concept",
+                 comment="Root class: any concept represented by a variable in an obstructive sleep apnea cohort data dictionary.")
 UPPER = {
     "PolysomnographyMeasure":  "Polysomnography-derived measure",
     "SleepQuestionnaireItem":  "Sleep questionnaire item",
@@ -75,8 +76,24 @@ UPPER = {
     "LifestyleFactor":         "Lifestyle and behavioral factor",
     "AdministrativeVariable":  "Administrative variable (not mapped)",
 }
-for local, lab in UPPER.items():
-    add_class(local, lab, root)
+UPPER_DEF = {
+    "PolysomnographyMeasure":  "A quantity derived from an overnight polysomnography recording, including respiratory event indices, oxygen saturation metrics, sleep architecture and arousal measures.",
+    "SleepQuestionnaireItem":  "A self-reported item or score from a sleep-related questionnaire or interview administered in the cohort.",
+    "SleepApneaTreatment":     "A self-reported treatment for sleep-disordered breathing, such as positive airway pressure, an oral appliance or upper-airway surgery.",
+    "MedicalHistory":          "A self-reported or physician-reported history of a medical condition or procedure.",
+    "CardiovascularOutcome":   "An adjudicated incident or prevalent cardiovascular event, or a time-to-event or count variable derived from it.",
+    "Medication":              "Reported use of a medication or medication class at a cohort visit.",
+    "ClinicalMeasure":         "A clinical measurement obtained at a cohort visit, such as blood pressure, blood analytes or lung function.",
+    "AnthropometricMeasure":   "A body measurement such as height, weight or body mass index.",
+    "Demographics":            "A demographic attribute of the participant such as age, sex, race or ethnicity.",
+    "LifestyleFactor":         "A lifestyle or behavioral exposure such as smoking or alcohol use.",
+    "AdministrativeVariable":  "A study-administration variable (identifiers, form-completion flags, recording times) that carries no clinical meaning and is not mapped to external terminologies.",
+}
+upper_classes = [add_class(local, lab, root, UPPER_DEF.get(local)) for local, lab in UPPER.items()]
+# 상위 클래스 간 배타성 선언 (OOPS! P10 대응)
+for i, a in enumerate(upper_classes):
+    for b in upper_classes[i + 1:]:
+        g.add((a, OWL.disjointWith, b))
 
 FOLDER2PARENT = [
     ("Measurements/Polysomnography", "PolysomnographyMeasure"),
@@ -125,8 +142,16 @@ FACETS = {
     "ArousalCriterion": [("WithArousal", "with arousal"),
                          ("ArousalNotRequired", "arousal not required")],
 }
+FACET_DEF = {
+    "SleepStageScope": "The sleep-stage stratum (REM, NREM or all sleep) over which a polysomnography variable was computed.",
+    "BodyPositionScope": "The body-position stratum (supine, non-supine or all positions) over which a polysomnography variable was computed.",
+    "DesaturationThreshold": "The minimum oxygen desaturation (or absolute saturation bound) required for an event to be counted in a polysomnography variable.",
+    "ArousalCriterion": "Whether EEG arousal was required or accepted as an alternative criterion for events counted in a polysomnography variable.",
+}
+facet_classes = []
 for cls, values in FACETS.items():
-    cu = add_class(cls, re.sub(r"(?<!^)([A-Z])", r" \1", cls).lower())
+    cu = add_class(cls, re.sub(r"(?<!^)([A-Z])", r" \1", cls).lower(), comment=FACET_DEF[cls])
+    facet_classes.append(cu)
     for local, lab in values:
         vu = OSACO[local]
         g.add((vu, RDF.type, OWL.NamedIndividual))
@@ -153,11 +178,25 @@ for p, rng in OBJ_PROPS.items():
     pu = OSACO[p]
     g.add((pu, RDF.type, OWL.ObjectProperty))
     g.add((pu, RDFS.label, Literal(p, lang="en")))
+    g.add((pu, RDFS.domain, C("PolysomnographyMeasure")))
     g.add((pu, RDFS.range, C(rng)))
-for p in ("nsrrVariableId", "sourceCohort"):
+    g.add((pu, RDFS.comment, Literal(f"Facet property linking a cohort variable to the {re.sub(r'(?<!^)([A-Z])', r' \1', rng).lower()} value under which it was computed.", lang="en")))
+    # 역속성 명시 선언 (OOPS! P10 대응)
+    inv_local = "is" + p[3:] + "Of"
+    iu = OSACO[inv_local]
+    g.add((iu, RDF.type, OWL.ObjectProperty))
+    g.add((iu, RDFS.label, Literal(inv_local, lang="en")))
+    g.add((iu, RDFS.comment, Literal(f"Inverse of {p}: links a facet value to the cohort variables computed under it.", lang="en")))
+    g.add((iu, RDFS.domain, C(rng)))
+    g.add((iu, RDFS.range, C("PolysomnographyMeasure")))
+    g.add((iu, OWL.inverseOf, pu))
+for p, cmt in (("nsrrVariableId", "NSRR data-dictionary identifier of the cohort variable."),
+               ("sourceCohort", "Cohort (SHHS or MESA) whose data dictionary defines the variable.")):
     pu = OSACO[p]
     g.add((pu, RDF.type, OWL.DatatypeProperty))
     g.add((pu, RDFS.label, Literal(p, lang="en")))
+    g.add((pu, RDFS.comment, Literal(cmt, lang="en")))
+    g.add((pu, RDFS.domain, root))
     g.add((pu, RDFS.range, XSD.string))
 
 # ── 표준 용어 IRI 변환 ────────────────────────────────────────────────────
@@ -210,9 +249,12 @@ fam_sheet = design["측정클래스(패싯패밀리)"]
 fam_uri = {}
 for _, r in fam_sheet.iterrows():
     name = str(r["클래스명"])
-    u = add_class(name if name not in used_slugs else name + "Family",
-                  re.sub(r"(?<!^)([A-Z])", r" \1", name).lower(),
-                  C("PolysomnographyMeasure"))
+    spaced = re.sub(r"(?<!^)([A-Z])", r" \1", name).lower()
+    u = add_class(name if name not in used_slugs else name + "Family", spaced,
+                  C("PolysomnographyMeasure"),
+                  f"Measurement family: {spaced}, derived from polysomnography. Member variables are "
+                  "distinguished by the facet properties sleep-stage scope, body-position scope, "
+                  "desaturation threshold and arousal criterion rather than by separate classes.")
     used_slugs.add(name)
     fam_uri[(str(r["이벤트"]), str(r["측정치"]))] = u
 
@@ -227,7 +269,7 @@ for cohort in ("SHHS", "MESA"):
         v = OSACO[f"var_{cohort.lower()}_{r['id']}"]
         g.add((v, RDF.type, OWL.NamedIndividual))
         g.add((v, RDF.type, fam))
-        g.add((v, RDFS.label, Literal(str(r["display_name"]))))
+        g.add((v, RDFS.label, Literal(f"{cohort}: {r['display_name']}")))   # 개체 라벨에 코호트 접두 (클래스 라벨과 구분)
         g.add((v, OSACO.nsrrVariableId, Literal(str(r["id"]))))
         g.add((v, OSACO.sourceCohort, Literal(cohort)))
         for col, prop in [("수면단계", "hasSleepStageScope"), ("체위", "hasBodyPositionScope"),
@@ -245,16 +287,23 @@ def norm_label(s):
     return re.sub(r"\s+", " ", s).strip()
 
 n_linked = n_orphan = 0
+defined = set()
 for cohort in ("SHHS", "MESA"):
     for _, r in inv[cohort].iterrows():
         cu = concept_uri.get(norm_label(r["display_name"]).lower())
         if cu is None:
             n_orphan += 1
             continue
+        # 개념 클래스 정의문: 사전의 description 우선, 없으면 정규화된 display_name
+        if cu not in defined and cu != C("AdministrativeVariable"):
+            desc = r["description"] if isinstance(r.get("description"), str) and r["description"].strip() else None
+            text = desc or norm_label(r["display_name"])
+            g.add((cu, SKOS.definition, Literal(f"{text} (source: {cohort} data dictionary)", lang="en")))
+            defined.add(cu)
         v = OSACO[f"var_{cohort.lower()}_{r['id']}"]
         g.add((v, RDF.type, OWL.NamedIndividual))
         g.add((v, RDF.type, cu))
-        g.add((v, RDFS.label, Literal(str(r["display_name"]))))
+        g.add((v, RDFS.label, Literal(f"{cohort}: {r['display_name']}")))   # 개체 라벨에 코호트 접두 (클래스 라벨과 구분)
         g.add((v, OSACO.nsrrVariableId, Literal(str(r["id"]))))
         g.add((v, OSACO.sourceCohort, Literal(cohort)))
         n_linked += 1

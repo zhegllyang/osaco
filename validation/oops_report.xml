@@ -1,0 +1,483 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:oops="http://oops.linkeddata.es/def#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" > 
+  <rdf:Description rdf:about="http://oops.linkeddata.es/data/5fca7143-d091-4faa-9278-49f9cb321c12">
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/SystolicBloodPressureBPMeasurement2</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/SystolicBloodPressureBPMeasurement3</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/SystolicBloodPressureBPMeasurement1</oops:hasAffectedElement>
+    <rdf:type rdf:resource="http://oops.linkeddata.es/def#sameLabel"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://oops.linkeddata.es/data/78ecafd9-1b78-460a-a006-3e455960eb55">
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/DiastolicBloodPressureBPMeasurement1</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/DiastolicBloodPressureBPMeasurement2</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/DiastolicBloodPressureBPMeasurement3</oops:hasAffectedElement>
+    <rdf:type rdf:resource="http://oops.linkeddata.es/def#sameLabel"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://oops.linkeddata.es/data/1ba2ab49-9141-4257-919b-710d4fc1211e">
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/PercentOfSleepTimeOxygenSaturationSao2IsBelow80</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/PercentOfSleepTimeOxygenSaturationSao2IsBelow95</oops:hasAffectedElement>
+    <rdf:type rdf:resource="http://oops.linkeddata.es/def#sameLabel"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://oops.linkeddata.es/data/8dae258a-6c9c-45e3-ab8a-60d23e5baa96">
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/SystolicBloodPressureBPReading3Of3</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/SystolicBloodPressureBPReading2Of3</oops:hasAffectedElement>
+    <rdf:type rdf:resource="http://oops.linkeddata.es/def#sameLabel"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://oops.linkeddata.es/data/0d019f12-e9cf-4219-88d6-3b9fdf3704c3">
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/ObstructiveApneaHypopneaIndexAHI3NumberOfObstructiveApneasAndHypopneas</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/ObstructiveApneaHypopneaIndexAHI4NumberOfObstructiveApneasAndHypopneas</oops:hasAffectedElement>
+    <rdf:type rdf:resource="http://oops.linkeddata.es/def#sameLabel"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://oops.linkeddata.es/data/cdeaecaf-5935-46f6-88d2-9714aed72efc">
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/TimeInStage34Sleep</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/TimeInStage1Sleep</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/TimeInStage34Sleep_2</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/TimeInStage2Sleep</oops:hasAffectedElement>
+    <rdf:type rdf:resource="http://oops.linkeddata.es/def#sameLabel"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://oops.linkeddata.es/data/3fec4024-eb44-45fe-a330-aa564c9d5c80">
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/SystolicBloodPressureBPMeasurement2</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/SystolicBloodPressureBPMeasurement1</oops:hasAffectedElement>
+    <rdf:type rdf:resource="http://oops.linkeddata.es/def#sameLabel"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://oops.linkeddata.es/data/85afc9d6-5d1c-4aee-a5c8-9860621d2835">
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/SlowReleaseCCBSNifsrOrDihsrOrVersrOrDltsrOrAmlod</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/SlowReleaseCcbsNifsrOrDihsrOrVersrOrDltsrOrAmlod</oops:hasAffectedElement>
+    <rdf:type rdf:resource="http://oops.linkeddata.es/def#sameLabel"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://oops.linkeddata.es/data/3488214a-8e19-442b-a1b9-a7cd07315eed">
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/TimeInStage34Sleep</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/TimeInStage1Sleep</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/TimeInStage34Sleep_2</oops:hasAffectedElement>
+    <rdf:type rdf:resource="http://oops.linkeddata.es/def#sameLabel"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://oops.linkeddata.es/def#pitfall">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://oops.linkeddata.es/data/1200f807-406f-4a1a-899d-3893da3cf94c">
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/NumberOfStage34ToStage12ShiftsPerHourOfSleep</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/NumberOfStage2ToStage1ShiftsPerHourOfSleep</oops:hasAffectedElement>
+    <rdf:type rdf:resource="http://oops.linkeddata.es/def#sameLabel"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://oops.linkeddata.es/data/33ebabcb-1cb7-4688-b743-9e004485b8cd">
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/ApneaHypopneaIndexApneasWithNoOxygenDesaturationThresholdUsedAndWithOr_2</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/ApneaHypopneaIndexApneasWithNoOxygenDesaturationThresholdUsedAndWithOr_4</oops:hasAffectedElement>
+    <rdf:type rdf:resource="http://oops.linkeddata.es/def#sameLabel"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://oops.linkeddata.es/data/e7627dce-3468-4fec-818c-4f5b7ff6ba7c">
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/PercentOfSleepTimeWithLessThan75OxygenSaturationSao2</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/PercentOfSleepTimeWithLessThan80OxygenSaturationSao2</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/PercentOfSleepTimeWithLessThan90OxygenSaturationSao2</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/PercentOfSleepTimeWithLessThan85OxygenSaturationSao2</oops:hasAffectedElement>
+    <rdf:type rdf:resource="http://oops.linkeddata.es/def#sameLabel"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://oops.linkeddata.es/data/34dcc4dd-19bf-47a1-ac20-9c83e9c58563">
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/TimeInStage1</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/TimeInStage34</oops:hasAffectedElement>
+    <rdf:type rdf:resource="http://oops.linkeddata.es/def#sameLabel"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://oops.linkeddata.es/data/aefc38e6-22d8-4ba1-a944-57b2bcc69db6">
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/NeckCircumferenceMeasurement3</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/NeckCircumferenceMeasurement2</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/NeckCircumferenceMeasurement1</oops:hasAffectedElement>
+    <rdf:type rdf:resource="http://oops.linkeddata.es/def#sameLabel"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://oops.linkeddata.es/data/974a8ad8-f497-4de1-8efc-9059aa29d349">
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/DiastolicBloodPressureBPMeasurement1</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/DiastolicBloodPressureBPMeasurement2</oops:hasAffectedElement>
+    <rdf:type rdf:resource="http://oops.linkeddata.es/def#sameLabel"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://oops.linkeddata.es/data/de65fc7e-355d-4eaf-b878-cebb1bbb9952">
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/PercentOfSleepTimeWithLessThan80OxygenSaturationSao2</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/PercentOfSleepTimeWithLessThan90OxygenSaturationSao2</oops:hasAffectedElement>
+    <rdf:type rdf:resource="http://oops.linkeddata.es/def#sameLabel"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://oops.linkeddata.es/data/df171af5-82e1-4273-aee5-222c88fe2c2f">
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/ObstructiveApneaHypopneaIndexForREMSleepObstructiveApneasHypopneasWith_2</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/ObstructiveApneaHypopneaIndexForREMSleepObstructiveApneasHypopneasWith</oops:hasAffectedElement>
+    <rdf:type rdf:resource="http://oops.linkeddata.es/def#sameLabel"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://oops.linkeddata.es/data/c9b7bece-2499-4077-879c-4ff0647c8950">
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/AnyCalciumChannelBlockerCcirOrCcbsrOrCcbt</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/AnyCalciumChannelBlockerCCIROrCcbsrOrCCBT</oops:hasAffectedElement>
+    <rdf:type rdf:resource="http://oops.linkeddata.es/def#sameLabel"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://oops.linkeddata.es/data/7990ce99-df37-4a95-888e-dec6902c6b7f">
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/TimeInStage1</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/TimeInStage2</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/TimeInStage34</oops:hasAffectedElement>
+    <rdf:type rdf:resource="http://oops.linkeddata.es/def#sameLabel"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://oops.linkeddata.es/data/46af5e2e-b8b2-4896-9503-b627b473c303">
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/NeckCircumferenceMeasurement3</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/NeckCircumferenceMeasurement1</oops:hasAffectedElement>
+    <rdf:type rdf:resource="http://oops.linkeddata.es/def#sameLabel"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://oops.linkeddata.es/data/9680b656-694a-4545-a856-97612145bbba">
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/ObstructiveApneaHypopneaIndexObstructiveApneasWithNoOxygenDesaturation_2</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/ObstructiveApneaHypopneaIndexObstructiveApneasWithNoOxygenDesaturation_4</oops:hasAffectedElement>
+    <rdf:type rdf:resource="http://oops.linkeddata.es/def#sameLabel"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://oops.linkeddata.es/data/3d81b3da-a714-4e39-87f4-6d471a768c3e">
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/PercentageOfTotalSleepDurationInStage2FromTypeIIPolysomnography</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/PercentageOfTotalSleepDurationInStage1FromTypeIIPolysomnography</oops:hasAffectedElement>
+    <rdf:type rdf:resource="http://oops.linkeddata.es/def#sameLabel"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://oops.linkeddata.es/data/b93686ac-2503-49a4-beff-8a6bc7a12c74">
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/CentralApneaHypopneaIndexCentralApneasWithNoOxygenDesaturationThreshol_2</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/CentralApneaHypopneaIndexCentralApneasWithNoOxygenDesaturationThreshol_4</oops:hasAffectedElement>
+    <rdf:type rdf:resource="http://oops.linkeddata.es/def#sameLabel"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://oops.linkeddata.es/data/59af5d8a-ef10-4c87-b084-454a926afeb1">
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/PercentTimeInStage34</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/PercentTimeInStage2</oops:hasAffectedElement>
+    <rdf:type rdf:resource="http://oops.linkeddata.es/def#sameLabel"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://oops.linkeddata.es/data/12ea3a9c-a4ee-4428-9b90-e15a7aca5775">
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/CentralApneaHypopneaIndexAHI4NumberOfCentralApneasAndHypopneasWith4Oxy_2</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/CentralApneaHypopneaIndexAHI3NumberOfCentralApneasAndHypopneasWith3Oxy_2</oops:hasAffectedElement>
+    <rdf:type rdf:resource="http://oops.linkeddata.es/def#sameLabel"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://oops.linkeddata.es/data/9d09b8f4-d358-4400-8d55-379e9928a92e">
+    <rdf:type rdf:resource="http://oops.linkeddata.es/def#pitfall"/>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/SleepHabitsOtherReasonForNap</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/DoctorOfMedicineMDReportedOtherHeartSurgery</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/OtherReasonSleepApneaNotTreated</oops:hasAffectedElement>
+    <oops:hasDescription rdf:datatype="http://www.w3.org/2001/XMLSchema#string">This pitfall refers to the creation of a class with the only goal of classifying the instances that do not belong to any of its sibling classes (classes with which the miscellaneous problematic class shares a common direct ancestor).	</oops:hasDescription>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/SleepHabitsDoctorOfMedicineMDDiagnosedOtherSleepDisorder</oops:hasAffectedElement>
+    <oops:hasCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">P21</oops:hasCode>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/MiscellaneousLipidLoweringDrugs</oops:hasAffectedElement>
+    <oops:hasImportanceLevel rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Minor</oops:hasImportanceLevel>
+    <oops:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Using a miscellaneous class</oops:hasName>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/ToldByDoctorOrSomeOtherSleepDisorder</oops:hasAffectedElement>
+    <oops:hasNumberAffectedElements rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</oops:hasNumberAffectedElements>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://oops.linkeddata.es/data/55311d34-d0a7-4b34-a041-5202a601095b">
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/DiastolicBloodPressureBPReading3Of3</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/DiastolicBloodPressureBPReading1Of3</oops:hasAffectedElement>
+    <rdf:type rdf:resource="http://oops.linkeddata.es/def#sameLabel"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://oops.linkeddata.es/data/bb3bfe55-2fca-4be9-b330-9465a3927ced">
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/CentralApneaHypopneaIndexCentralApneasWithNoOxygenDesaturationThreshol_3</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/CentralApneaHypopneaIndexCentralApneasWithNoOxygenDesaturationThreshol</oops:hasAffectedElement>
+    <rdf:type rdf:resource="http://oops.linkeddata.es/def#sameLabel"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://oops.linkeddata.es/data/e75b1513-48bf-4457-8734-6e6c59bfa069">
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/ObstructiveApneaHypopneaIndexAHI4NumberOfObstructiveApneasAndHypopneas_2</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/ObstructiveApneaHypopneaIndexAHI3NumberOfObstructiveApneasAndHypopneas_2</oops:hasAffectedElement>
+    <rdf:type rdf:resource="http://oops.linkeddata.es/def#sameLabel"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://oops.linkeddata.es/data/4f326bc1-fdf4-400b-bc12-53655a40a630">
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/CentralApneaHypopneaIndexAHI4NumberOfCentralApneasAndHypopneasWith4Oxy</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/CentralApneaHypopneaIndexAHI3NumberOfCentralApneasAndHypopneasWith3Oxy</oops:hasAffectedElement>
+    <rdf:type rdf:resource="http://oops.linkeddata.es/def#sameLabel"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://oops.linkeddata.es/data/cdc53701-94f0-49d3-a969-ca1d7f62e6b4">
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/PercentageOfTotalSleepDurationIETotalSleepTimeTSTInStage1FromPolysomno</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/PercentageOfTotalSleepDurationIETotalSleepTimeTSTInStage2FromPolysomno</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/PercentageOfTotalSleepDurationIETotalSleepTimeTSTInStage34FromPolysomn</oops:hasAffectedElement>
+    <rdf:type rdf:resource="http://oops.linkeddata.es/def#sameLabel"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://oops.linkeddata.es/data/fce17868-6552-41ae-853a-ecf7c7dda34b">
+    <oops:hasSameLabel rdf:resource="http://oops.linkeddata.es/data/c9b7bece-2499-4077-879c-4ff0647c8950"/>
+    <oops:hasSameLabel rdf:resource="http://oops.linkeddata.es/data/4c9fcb41-71d3-4632-b6db-f69b86836734"/>
+    <oops:hasSameLabel rdf:resource="http://oops.linkeddata.es/data/1ba2ab49-9141-4257-919b-710d4fc1211e"/>
+    <oops:hasSameLabel rdf:resource="http://oops.linkeddata.es/data/78ecafd9-1b78-460a-a006-3e455960eb55"/>
+    <oops:hasSameLabel rdf:resource="http://oops.linkeddata.es/data/15bb17dc-97a6-45a0-b919-9fd1748ec059"/>
+    <oops:hasSameLabel rdf:resource="http://oops.linkeddata.es/data/f8045b5e-7213-42fc-bec1-41f8561c6261"/>
+    <oops:hasSameLabel rdf:resource="http://oops.linkeddata.es/data/9a26f221-aaf7-46b6-8293-2d0dfd0b61f1"/>
+    <rdf:type rdf:resource="http://oops.linkeddata.es/def#pitfall"/>
+    <oops:hasSameLabel rdf:resource="http://oops.linkeddata.es/data/32a2bea5-c8f4-4ec9-a394-9768086fb6ed"/>
+    <oops:hasSameLabel rdf:resource="http://oops.linkeddata.es/data/4f326bc1-fdf4-400b-bc12-53655a40a630"/>
+    <oops:hasSameLabel rdf:resource="http://oops.linkeddata.es/data/1879f8bd-b1fa-48de-bef0-5e7931a2bca9"/>
+    <oops:hasSameLabel rdf:resource="http://oops.linkeddata.es/data/e7627dce-3468-4fec-818c-4f5b7ff6ba7c"/>
+    <oops:hasCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">P32</oops:hasCode>
+    <oops:hasSameLabel rdf:resource="http://oops.linkeddata.es/data/1b3c2d39-a1a0-40a8-adeb-8341054f3cc7"/>
+    <oops:hasSameLabel rdf:resource="http://oops.linkeddata.es/data/7990ce99-df37-4a95-888e-dec6902c6b7f"/>
+    <oops:hasSameLabel rdf:resource="http://oops.linkeddata.es/data/3d81b3da-a714-4e39-87f4-6d471a768c3e"/>
+    <oops:hasSameLabel rdf:resource="http://oops.linkeddata.es/data/0fb6de4f-8be2-4381-8235-e435d85f412c"/>
+    <oops:hasSameLabel rdf:resource="http://oops.linkeddata.es/data/7c605539-c141-416e-a43c-a522118c3db5"/>
+    <oops:hasSameLabel rdf:resource="http://oops.linkeddata.es/data/15dbd2d3-4ffa-483a-a871-d105bd1f9448"/>
+    <oops:hasSameLabel rdf:resource="http://oops.linkeddata.es/data/d0ac1d5e-2ec5-4009-a729-9a64596a542a"/>
+    <oops:hasSameLabel rdf:resource="http://oops.linkeddata.es/data/46279fb4-3fb6-4bfa-a28f-a3768b680e0f"/>
+    <oops:hasSameLabel rdf:resource="http://oops.linkeddata.es/data/cdeaecaf-5935-46f6-88d2-9714aed72efc"/>
+    <oops:hasSameLabel rdf:resource="http://oops.linkeddata.es/data/429202a4-eae1-4353-bb27-22b0c76b2d96"/>
+    <oops:hasSameLabel rdf:resource="http://oops.linkeddata.es/data/12ea3a9c-a4ee-4428-9b90-e15a7aca5775"/>
+    <oops:hasSameLabel rdf:resource="http://oops.linkeddata.es/data/e75b1513-48bf-4457-8734-6e6c59bfa069"/>
+    <oops:hasSameLabel rdf:resource="http://oops.linkeddata.es/data/33ebabcb-1cb7-4688-b743-9e004485b8cd"/>
+    <oops:hasSameLabel rdf:resource="http://oops.linkeddata.es/data/bb3bfe55-2fca-4be9-b330-9465a3927ced"/>
+    <oops:hasSameLabel rdf:resource="http://oops.linkeddata.es/data/46070887-72c7-4709-bb38-14b1372b3a6d"/>
+    <oops:hasSameLabel rdf:resource="http://oops.linkeddata.es/data/974a8ad8-f497-4de1-8efc-9059aa29d349"/>
+    <oops:hasSameLabel rdf:resource="http://oops.linkeddata.es/data/de65fc7e-355d-4eaf-b878-cebb1bbb9952"/>
+    <oops:hasSameLabel rdf:resource="http://oops.linkeddata.es/data/59af5d8a-ef10-4c87-b084-454a926afeb1"/>
+    <oops:hasSameLabel rdf:resource="http://oops.linkeddata.es/data/e1d36bfd-f5c8-42f2-a8a1-b2cbd6a6cf75"/>
+    <oops:hasSameLabel rdf:resource="http://oops.linkeddata.es/data/e9668ac6-b5de-4026-b255-8f5f269d2782"/>
+    <oops:hasSameLabel rdf:resource="http://oops.linkeddata.es/data/f182007d-ff7b-400d-b1eb-7444a3fc00bf"/>
+    <oops:hasSameLabel rdf:resource="http://oops.linkeddata.es/data/8dae258a-6c9c-45e3-ab8a-60d23e5baa96"/>
+    <oops:hasSameLabel rdf:resource="http://oops.linkeddata.es/data/b93686ac-2503-49a4-beff-8a6bc7a12c74"/>
+    <oops:hasSameLabel rdf:resource="http://oops.linkeddata.es/data/cdc53701-94f0-49d3-a969-ca1d7f62e6b4"/>
+    <oops:hasSameLabel rdf:resource="http://oops.linkeddata.es/data/df171af5-82e1-4273-aee5-222c88fe2c2f"/>
+    <oops:hasNumberAffectedElements rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">55</oops:hasNumberAffectedElements>
+    <oops:hasSameLabel rdf:resource="http://oops.linkeddata.es/data/3488214a-8e19-442b-a1b9-a7cd07315eed"/>
+    <oops:hasSameLabel rdf:resource="http://oops.linkeddata.es/data/85afc9d6-5d1c-4aee-a5c8-9860621d2835"/>
+    <oops:hasSameLabel rdf:resource="http://oops.linkeddata.es/data/46af5e2e-b8b2-4896-9503-b627b473c303"/>
+    <oops:hasSameLabel rdf:resource="http://oops.linkeddata.es/data/1200f807-406f-4a1a-899d-3893da3cf94c"/>
+    <oops:hasSameLabel rdf:resource="http://oops.linkeddata.es/data/3fec4024-eb44-45fe-a330-aa564c9d5c80"/>
+    <oops:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Several classes with the same label</oops:hasName>
+    <oops:hasSameLabel rdf:resource="http://oops.linkeddata.es/data/d2edad3f-6670-4c01-b5ee-8b0376998582"/>
+    <oops:hasSameLabel rdf:resource="http://oops.linkeddata.es/data/06244548-13c8-4f68-9e50-4aecf6f08133"/>
+    <oops:hasSameLabel rdf:resource="http://oops.linkeddata.es/data/d1baecd1-749c-4cdd-8b57-f06f0ed4086b"/>
+    <oops:hasSameLabel rdf:resource="http://oops.linkeddata.es/data/0ddbcce1-25e4-450d-8603-d40cc93edb4f"/>
+    <oops:hasSameLabel rdf:resource="http://oops.linkeddata.es/data/3ee50bb5-ec0e-4dc6-ab0f-cbd0d3924316"/>
+    <oops:hasSameLabel rdf:resource="http://oops.linkeddata.es/data/2651f0f5-eacf-49fc-9d7d-1dcf25bbae59"/>
+    <oops:hasSameLabel rdf:resource="http://oops.linkeddata.es/data/55311d34-d0a7-4b34-a041-5202a601095b"/>
+    <oops:hasSameLabel rdf:resource="http://oops.linkeddata.es/data/5fca7143-d091-4faa-9278-49f9cb321c12"/>
+    <oops:hasDescription rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Two or more classes have the same content for natural language annotations for naming, for example the rdfs:label annotation. This pitfall might involve lack of accuracy when defining terms.	</oops:hasDescription>
+    <oops:hasSameLabel rdf:resource="http://oops.linkeddata.es/data/9680b656-694a-4545-a856-97612145bbba"/>
+    <oops:hasSameLabel rdf:resource="http://oops.linkeddata.es/data/aefc38e6-22d8-4ba1-a944-57b2bcc69db6"/>
+    <oops:hasImportanceLevel rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Minor</oops:hasImportanceLevel>
+    <oops:hasSameLabel rdf:resource="http://oops.linkeddata.es/data/0d019f12-e9cf-4219-88d6-3b9fdf3704c3"/>
+    <oops:hasSameLabel rdf:resource="http://oops.linkeddata.es/data/b6caaaad-2370-4c73-8644-f095195b05d5"/>
+    <oops:hasSameLabel rdf:resource="http://oops.linkeddata.es/data/34dcc4dd-19bf-47a1-ac20-9c83e9c58563"/>
+    <oops:hasSameLabel rdf:resource="http://oops.linkeddata.es/data/557276ac-25f0-4b83-942a-ca7a08f7906f"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://oops.linkeddata.es/data/fcd87aef-dd22-414e-b96d-ea56073ddf0d">
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/SleepHabitsFrequencyOfBeingHouseholdMembersInOrNearSleepingArea</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/ObstructiveApneaHypopneaIndexAHI3NumberOfObstructiveApneasAndHypopneas</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/HorneOstbergMorningnessEveningnessQuestionnaireMorningOrEveningType</oops:hasAffectedElement>
+    <rdf:type rdf:resource="http://oops.linkeddata.es/def#pitfall"/>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/SleepHabitsFallAsleepWhileSittingAndReading</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/AnyCalciumChannelBlockerCCIROrCcbsrOrCCBT</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/SlowReleaseCCBSNifsrOrDihsrOrVersrOrDltsrOrAmlod</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/REMLatencyITheIntervalBetweenSleepOnsetAndFirstREMIncludingWakeFromTyp</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/WeekendOrNonWorkdayUsualHoursOfSleep</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/OralAnticoagulantsIncludingWarfarinCoumadinAndAnisindione</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/SlowReleaseCcbsNifsrOrDihsrOrVersrOrDltsrOrAmlod</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/REMSleepLatencyTheIntervalBetweenTheFirstSleepEpochAndREMSleepIncludin</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/WakeAfterSleepOnsetTheTotalDurationBetweenSleepOnsetAndSleepOffsetTime</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/ApneaHypopneaIndexAllApneasHypopneasWith4OxygenDesaturationOrWithArous</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/CentralApneaHypopneaIndexAHI3NumberOfCentralApneasAndHypopneasWith3Oxy</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/SleepHabitsFrequencyOfBeingAwakenedWithHeartburnOrIndigestion</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/SleepLatencyTheIntervalBetweenLightsOutInBedTimeAndSleepOnsetFromPolys</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/RunnyOrStuffyNose</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/WeekdayOrWorkdayUsualHoursOfSleep</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/PercentOfSleepTimeInApneaOrHypopneaWithArousal</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/ObstructiveApneaHypopneaIndexAHI4NumberOfObstructiveApneasAndHypopneas</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/SleepHabitsFrequencyOfWakingUpTooEarlyAndUnableToResumeSleep</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/SleepHabitsFallAsleepWhileSittingAndTalking</oops:hasAffectedElement>
+    <oops:hasDescription rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A class whose name refers to two or more different concepts is created.	</oops:hasDescription>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/SymptomsWorseLaterInDayOrNight</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/ApneaHypopneaIndexAllApneasHypopneasWith30NasalCannulaOrAlternativeSen</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/ImmediateReleaseCcbsNifirOrDihirOrVerirOrDltir</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/SleepHabitsWeekendBedtimeAMOrPM</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/SleepHabitsWeekdayWakeTimeAMOrPM</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/REMSleepLatencyTheIntervalBetweenTheFirstSleepEpochAndREMSleepExcludin</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/DaysFromBaselineToFirstMyocardialInfarctionMIOrStroke</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/TotalInBedPeriodTheIntervalBetweenLightsOutInBedTimeAndLightsOffOutBed</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/NiacinAndNicotinicAcid</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/CentralApneaHypopneaIndexAHI4NumberOfCentralApneasAndHypopneasWith4Oxy</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/ApneaHypopneaIndexAHI3NumberOfAllApneasAndHypopneasWith3OxygenDesatura</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/TotalSleepDurationTheIntervalBetweenSleepOnsetAndSleepOffsetWhileThePa</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/SleepHabitsUsePressureMaskContinuousPositiveAirwayPressureCPAPOrMouthp</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/SleepHabitsWeekdayBedtimeAMOrPM</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/SleepHabitsFrequencyOfBeingAwakenedWithLegCrampsOrJerks</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/WakeAfterSleepOnsetTheTotalDurationBeingAwakeBetweenSleepOnsetAndLight</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/RatioOfTheNumberOfCentralApneasWithNoOxygenDesaturationThresholdUsedOr</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/OverallRespiratoryDisturbanceIndexRDIAt3OxygenDesaturationOrArousal</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/AnyCalciumChannelBlockerCcirOrCcbsrOrCcbt</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/HealthInterviewSinceSmokingBeganNonSmokerForOneYearOrMore</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/SleepHabitsWeekendWakeTimeAMOrPM</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/SleepHabitsNapDueToIllnessOrMedicalReason</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/ApneaHypopneaIndexApneasWithNoOxygenDesaturationThresholdUsedAndWithOr</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/CPAPOrBipapMachineForSleepApneaSelfReported</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/MorningSurveyBottlesOrCansOfBeerBeforeBed</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/ExperienceDesireToMoveLegsBecauseOfDiscomfortOrDisagreeableSensationsI</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/SleepHabitsFrequencyOfWakingUpAndHavingDifficultyResumingSleep</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/SleepLatencyTheIntervalBetweenLightsOutInBedTimeAndSleepOnsetTimeFromT</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/FeelNeedToMoveToRelieveDiscomfortByWalkingOrRubLegs</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/EpworthSleepinessScaleChanceOfDozingWhileSittingAndReading</oops:hasAffectedElement>
+    <oops:hasCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">P07</oops:hasCode>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/REMLatencyIITheIntervalBetweenSleepOnsetAndFirstREMWhileAsleepExcludin</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/ToldByDoctorOrSomeOtherSleepDisorder</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/EpworthSleepinessScaleChanceOfDozingWhileSittingAndTalkingToSomeone</oops:hasAffectedElement>
+    <oops:hasNumberAffectedElements rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">64</oops:hasNumberAffectedElements>
+    <oops:hasImportanceLevel rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Minor</oops:hasImportanceLevel>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/ApneaHypopneaIndexAHI4NumberOfAllApneasAndHypopneasWith4OxygenDesatura</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/PercentOfSleepTimeInApneaHypopneaWithGreaterThan3OxygenDesaturationOrA</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/SleepHabitsFrequencyOfBeingAwakenedWithSweatsOrHotFlashes</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/ImmediateReleaseCCBSNFIROrDihirOrVerirOrDltir</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/MorningSurveyReportedElapsedTimeBetweenSleepAndWakening</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/TotalInBedPeriodTheIntervalBetweenLightsOffInBedTimeAndLightsOnOutBedT</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/MorningSurveyGlassesOrCansOfSodaBeforeBed</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/TreatmentPrescribedContinuousPositiveAirwayPressureCPAPOrBilevelPositi</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/CentralApneaIndexCentralApneasWithNoOxygenDesaturationThresholdUsedAnd</oops:hasAffectedElement>
+    <oops:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Merging different concepts in the same class</oops:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://oops.linkeddata.es/data/f182007d-ff7b-400d-b1eb-7444a3fc00bf">
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/PercentOfSleepTimeInStage1Sleep</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/PercentOfSleepTimeInStage34Sleep</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/PercentOfSleepTimeInStage2Sleep</oops:hasAffectedElement>
+    <rdf:type rdf:resource="http://oops.linkeddata.es/def#sameLabel"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://oops.linkeddata.es/def#suggestion">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://oops.linkeddata.es/data/1879f8bd-b1fa-48de-bef0-5e7931a2bca9">
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/TotalDurationOfStage2SleepFromTypeIIPolysomnography</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/TotalDurationOfStage1SleepFromTypeIIPolysomnography</oops:hasAffectedElement>
+    <rdf:type rdf:resource="http://oops.linkeddata.es/def#sameLabel"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://oops.linkeddata.es/data/32a2bea5-c8f4-4ec9-a394-9768086fb6ed">
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/NumberOfRapidEyeMovementSleepREMToStage2ShiftsPerHourOfSleep</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/NumberOfRapidEyeMovementSleepREMToStage1ShiftsPerHourOfSleep</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/NumberOfRapidEyeMovementSleepREMToStage34ShiftsPerHourOfSleep</oops:hasAffectedElement>
+    <rdf:type rdf:resource="http://oops.linkeddata.es/def#sameLabel"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://oops.linkeddata.es/def#warning">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://oops.linkeddata.es/data/e1d36bfd-f5c8-42f2-a8a1-b2cbd6a6cf75">
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/SystolicBloodPressureBPReading3Of3</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/SystolicBloodPressureBPReading2Of3</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/SystolicBloodPressureBPReading1Of3</oops:hasAffectedElement>
+    <rdf:type rdf:resource="http://oops.linkeddata.es/def#sameLabel"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://oops.linkeddata.es/data/d0ac1d5e-2ec5-4009-a729-9a64596a542a">
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/PercentageOfTotalSleepDurationIETotalSleepTimeTSTInStage1FromPolysomno</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/PercentageOfTotalSleepDurationIETotalSleepTimeTSTInStage34FromPolysomn</oops:hasAffectedElement>
+    <rdf:type rdf:resource="http://oops.linkeddata.es/def#sameLabel"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://oops.linkeddata.es/data/429202a4-eae1-4353-bb27-22b0c76b2d96">
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/PercentOfSleepTimeOxygenSaturationSao2IsBelow75</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/PercentOfSleepTimeOxygenSaturationSao2IsBelow90</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/PercentOfSleepTimeOxygenSaturationSao2IsBelow80</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/PercentOfSleepTimeOxygenSaturationSao2IsBelow70</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/PercentOfSleepTimeOxygenSaturationSao2IsBelow95</oops:hasAffectedElement>
+    <rdf:type rdf:resource="http://oops.linkeddata.es/def#sameLabel"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://oops.linkeddata.es/data/2651f0f5-eacf-49fc-9d7d-1dcf25bbae59">
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/ApneaHypopneaIndexAHI3NumberOfAllApneasAndHypopneasWith3OxygenDesatura_2</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/ApneaHypopneaIndexAHI4NumberOfAllApneasAndHypopneasWith4OxygenDesatura_2</oops:hasAffectedElement>
+    <rdf:type rdf:resource="http://oops.linkeddata.es/def#sameLabel"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://oops.linkeddata.es/data/b6caaaad-2370-4c73-8644-f095195b05d5">
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/ObstructiveApneaHypopneaIndexForNREMSleepObstructiveApneasHypopneasWit_2</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/ObstructiveApneaHypopneaIndexForNREMSleepObstructiveApneasHypopneasWit</oops:hasAffectedElement>
+    <rdf:type rdf:resource="http://oops.linkeddata.es/def#sameLabel"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://oops.linkeddata.es/data/7c605539-c141-416e-a43c-a522118c3db5">
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/PercentOfSleepTimeWithLessThan80OxygenSaturationSao2</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/PercentOfSleepTimeWithLessThan90OxygenSaturationSao2</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/PercentOfSleepTimeWithLessThan85OxygenSaturationSao2</oops:hasAffectedElement>
+    <rdf:type rdf:resource="http://oops.linkeddata.es/def#sameLabel"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://oops.linkeddata.es/data/4c9fcb41-71d3-4632-b6db-f69b86836734">
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/NumberOfRapidEyeMovementSleepREMToStage2ShiftsPerHourOfSleep</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/NumberOfRapidEyeMovementSleepREMToStage34ShiftsPerHourOfSleep</oops:hasAffectedElement>
+    <rdf:type rdf:resource="http://oops.linkeddata.es/def#sameLabel"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://oops.linkeddata.es/data/d1baecd1-749c-4cdd-8b57-f06f0ed4086b">
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/PercentOfSleepTimeOxygenSaturationSao2IsBelow75</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/PercentOfSleepTimeOxygenSaturationSao2IsBelow80</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/PercentOfSleepTimeOxygenSaturationSao2IsBelow95</oops:hasAffectedElement>
+    <rdf:type rdf:resource="http://oops.linkeddata.es/def#sameLabel"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://oops.linkeddata.es/data/9a26f221-aaf7-46b6-8293-2d0dfd0b61f1">
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/PercentOfSleepTimeOxygenSaturationSao2IsBelow75</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/PercentOfSleepTimeOxygenSaturationSao2IsBelow80</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/PercentOfSleepTimeOxygenSaturationSao2IsBelow70</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/PercentOfSleepTimeOxygenSaturationSao2IsBelow95</oops:hasAffectedElement>
+    <rdf:type rdf:resource="http://oops.linkeddata.es/def#sameLabel"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://oops.linkeddata.es/data/f8045b5e-7213-42fc-bec1-41f8561c6261">
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/TimeInStage34Sleep</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/TimeInStage34Sleep_2</oops:hasAffectedElement>
+    <rdf:type rdf:resource="http://oops.linkeddata.es/def#sameLabel"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://oops.linkeddata.es/data/9c1e5762-c5a6-4413-b40c-b7c543fc22a0">
+    <oops:hasImportanceLevel rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Minor</oops:hasImportanceLevel>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">There are elements following different naming conventions as for example: https://w3id.org/osaco/CentralApneaHypopneaIndexCentralApneasWithNoOxygenDesaturationThreshol_4 https://w3id.org/osaco/HypopneaAverageLength</oops:hasAffectedElement>
+    <oops:hasNumberAffectedElements rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</oops:hasNumberAffectedElements>
+    <oops:hasDescription rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The ontology elements are not named following the same convention (for example CamelCase or use of delimiters as &amp;quot;-&amp;quot; or &amp;quot;_&amp;quot;) . Some notions about naming conventions are provided in [2].	</oops:hasDescription>
+    <oops:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Using different naming conventions in the ontology</oops:hasName>
+    <oops:hasCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">P22</oops:hasCode>
+    <rdf:type rdf:resource="http://oops.linkeddata.es/def#pitfall"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://oops.linkeddata.es/data/e9668ac6-b5de-4026-b255-8f5f269d2782">
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/ObstructiveApneaHypopneaIndexObstructiveApneasWithNoOxygenDesaturation_3</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/ObstructiveApneaHypopneaIndexObstructiveApneasWithNoOxygenDesaturation_5</oops:hasAffectedElement>
+    <rdf:type rdf:resource="http://oops.linkeddata.es/def#sameLabel"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://oops.linkeddata.es/data/d2edad3f-6670-4c01-b5ee-8b0376998582">
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/DiastolicBloodPressureBPReading3Of3</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/DiastolicBloodPressureBPReading2Of3</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/DiastolicBloodPressureBPReading1Of3</oops:hasAffectedElement>
+    <rdf:type rdf:resource="http://oops.linkeddata.es/def#sameLabel"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://oops.linkeddata.es/data/0fb6de4f-8be2-4381-8235-e435d85f412c">
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/PercentOfSleepTimeOxygenSaturationSao2IsBelow85</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/PercentOfSleepTimeOxygenSaturationSao2IsBelow75</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/PercentOfSleepTimeOxygenSaturationSao2IsBelow90</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/PercentOfSleepTimeOxygenSaturationSao2IsBelow80</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/PercentOfSleepTimeOxygenSaturationSao2IsBelow70</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/PercentOfSleepTimeOxygenSaturationSao2IsBelow95</oops:hasAffectedElement>
+    <rdf:type rdf:resource="http://oops.linkeddata.es/def#sameLabel"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://oops.linkeddata.es/data/15dbd2d3-4ffa-483a-a871-d105bd1f9448">
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/ApneaHypopneaIndexAHI4NumberOfAllApneasAndHypopneasWith4OxygenDesatura</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/ApneaHypopneaIndexAHI3NumberOfAllApneasAndHypopneasWith3OxygenDesatura</oops:hasAffectedElement>
+    <rdf:type rdf:resource="http://oops.linkeddata.es/def#sameLabel"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://oops.linkeddata.es/data/0ddbcce1-25e4-450d-8603-d40cc93edb4f">
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/NumberOfStage2ToStage1ShiftsDuringSleep</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/NumberOfStage34ToStage12ShiftsDuringSleep</oops:hasAffectedElement>
+    <rdf:type rdf:resource="http://oops.linkeddata.es/def#sameLabel"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://oops.linkeddata.es/data/46279fb4-3fb6-4bfa-a28f-a3768b680e0f">
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/NumberOfRapidEyeMovementSleepREMToStage1ShiftsDuringSleep</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/NumberOfRapidEyeMovementSleepREMToStage2ShiftsDuringSleep</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/NumberOfRapidEyeMovementSleepREMToStage34ShiftsDuringSleep</oops:hasAffectedElement>
+    <rdf:type rdf:resource="http://oops.linkeddata.es/def#sameLabel"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://oops.linkeddata.es/data/46070887-72c7-4709-bb38-14b1372b3a6d">
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/PercentOfSleepTimeInStage1Sleep</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/PercentOfSleepTimeInStage34Sleep</oops:hasAffectedElement>
+    <rdf:type rdf:resource="http://oops.linkeddata.es/def#sameLabel"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://oops.linkeddata.es/data/15bb17dc-97a6-45a0-b919-9fd1748ec059">
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/ObstructiveApneaHypopneaIndexObstructiveApneasHypopneasWith4OxygenDesa</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/ObstructiveApneaHypopneaIndexObstructiveApneasHypopneasWith3OxygenDesa</oops:hasAffectedElement>
+    <rdf:type rdf:resource="http://oops.linkeddata.es/def#sameLabel"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://oops.linkeddata.es/data/557276ac-25f0-4b83-942a-ca7a08f7906f">
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/ApneaHypopneaIndexApneasWithNoOxygenDesaturationThresholdUsedAndWithOr_3</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/ApneaHypopneaIndexApneasWithNoOxygenDesaturationThresholdUsedAndWithOr</oops:hasAffectedElement>
+    <rdf:type rdf:resource="http://oops.linkeddata.es/def#sameLabel"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://oops.linkeddata.es/data/06244548-13c8-4f68-9e50-4aecf6f08133">
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/OverallRespiratoryDisturbanceIndexRDIAt3OxygenDesaturation</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/OverallRespiratoryDisturbanceIndexRDIAt4OxygenDesaturation</oops:hasAffectedElement>
+    <rdf:type rdf:resource="http://oops.linkeddata.es/def#sameLabel"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://oops.linkeddata.es/data/1b3c2d39-a1a0-40a8-adeb-8341054f3cc7">
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/NumberOfRapidEyeMovementSleepREMToStage1ShiftsDuringSleep</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/NumberOfRapidEyeMovementSleepREMToStage2ShiftsDuringSleep</oops:hasAffectedElement>
+    <rdf:type rdf:resource="http://oops.linkeddata.es/def#sameLabel"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://oops.linkeddata.es/data/3ee50bb5-ec0e-4dc6-ab0f-cbd0d3924316">
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/PercentTimeInStage34</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/PercentTimeInStage1</oops:hasAffectedElement>
+    <oops:hasAffectedElement rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/osaco/PercentTimeInStage2</oops:hasAffectedElement>
+    <rdf:type rdf:resource="http://oops.linkeddata.es/def#sameLabel"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://oops.linkeddata.es/data/9c4eef25-3214-4b02-9512-ebbee3c39a4b">
+    <oops:hasPitfall rdf:resource="http://oops.linkeddata.es/data/fce17868-6552-41ae-853a-ecf7c7dda34b"/>
+    <oops:hasPitfall rdf:resource="http://oops.linkeddata.es/data/9c1e5762-c5a6-4413-b40c-b7c543fc22a0"/>
+    <oops:hasPitfall rdf:resource="http://oops.linkeddata.es/data/9d09b8f4-d358-4400-8d55-379e9928a92e"/>
+    <oops:hasPitfall rdf:resource="http://oops.linkeddata.es/data/fcd87aef-dd22-414e-b96d-ea56073ddf0d"/>
+    <rdf:type rdf:resource="http://oops.linkeddata.es/def#response"/>
+  </rdf:Description>
+</rdf:RDF>

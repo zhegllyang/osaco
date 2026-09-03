@@ -30,6 +30,15 @@ the publicly available NSRR data dictionaries.
 | `validation/` | Competency-question outputs and participant-level validation summary tables |
 | `scripts/` | Reproducible pipeline: inventory notebook, OWL builder, SPARQL competency questions, empirical validation |
 
+## Quality assurance (v0.1.1)
+
+- **Reasoner**: consistent under HermiT (via Owlready2), 0 unsatisfiable classes — `scripts/run_reasoner.py`
+- **OOPS! pitfall scan**: no critical pitfalls; report in `validation/oops_report.xml` — `scripts/run_oops_scan.py`, `scripts/inspect_oops.py`
+- **Facet-parser validation**: facets parsed from display names agree with those encoded in NSRR identifier
+  grammar for 751/751 eligible variables — `scripts/validate_facet_parser.py`, `validation/facet_parser_validation.xlsx`
+- Every class carries a label and a `skos:definition`; facet properties declare domain, range and inverses;
+  upper classes are pairwise disjoint.
+
 ## Reproducing
 
 ```bash

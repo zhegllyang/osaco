@@ -1,10 +1,10 @@
 cff-version: 1.2.0
 message: "If you use OSACO, please cite it as below."
 title: "OSACO: Obstructive Sleep Apnea Cohort Variable Ontology"
-version: 0.1.0
+version: 0.1.1
 date-released: 2026-09-03
 license: CC-BY-4.0
-doi: 10.5281/zenodo.22268107
+doi: 10.5281/zenodo.22268106
 identifiers:
   - type: doi
     value: 10.5281/zenodo.22268106
